@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Junior Researcher">
+  <meta name="description" content="In this paper, we present SQUARES, an open-source tool that generates SQL and R queries from specifications. The specifications are expressed with input-output tables and some optional hints provided by the user. SQUARES is grounded on constraint programming techniques.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://pmorvalho.github.io/authors/miguel-terra-neves/">
+  <link rel="alternate" hreflang="en-us" href="https://pmorvalho.github.io/publication/1-vldb2020/">
 
   
 
@@ -95,14 +95,12 @@
 
 
   
-  <link rel="alternate" href="/authors/miguel-terra-neves/index.xml" type="application/rss+xml" title="Pedro Orvalho">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://pmorvalho.github.io/authors/miguel-terra-neves/">
+  <link rel="canonical" href="https://pmorvalho.github.io/publication/1-vldb2020/">
 
   
   
@@ -115,18 +113,61 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Pedro Orvalho">
-  <meta property="og:url" content="https://pmorvalho.github.io/authors/miguel-terra-neves/">
-  <meta property="og:title" content="Miguel Terra-Neves | Pedro Orvalho">
-  <meta property="og:description" content="Junior Researcher"><meta property="og:image" content="https://pmorvalho.github.io/img/icon-192.png">
+  <meta property="og:url" content="https://pmorvalho.github.io/publication/1-vldb2020/">
+  <meta property="og:title" content="SQUARES : A SQL Synthesizer Using Query Reverse Engineering | Pedro Orvalho">
+  <meta property="og:description" content="In this paper, we present SQUARES, an open-source tool that generates SQL and R queries from specifications. The specifications are expressed with input-output tables and some optional hints provided by the user. SQUARES is grounded on constraint programming techniques."><meta property="og:image" content="https://pmorvalho.github.io/img/icon-192.png">
   <meta property="twitter:image" content="https://pmorvalho.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
+    
     
   
 
   
 
 
+    
 
+
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://pmorvalho.github.io/publication/1-vldb2020/"
+  },
+  "headline": "SQUARES : A SQL Synthesizer Using Query Reverse Engineering",
+  
+  "datePublished": "0001-01-01T00:00:00Z",
+  "dateModified": "0001-01-01T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Pedro Orvalho"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pedro Orvalho",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://pmorvalho.github.io/img/icon-512.png"
+    }
+  },
+  "description": "In this paper, we present SQUARES, an open-source tool that generates SQL and R queries from specifications. The specifications are expressed with input-output tables and some optional hints provided by the user. SQUARES is grounded on constraint programming techniques."
+}
+</script>
+
+  
 
   
 
@@ -134,10 +175,13 @@
   
 
 
+  
 
 
 
-  <title>Miguel Terra-Neves | Pedro Orvalho</title>
+
+
+  <title>SQUARES : A SQL Synthesizer Using Query Reverse Engineering | Pedro Orvalho</title>
 
 </head>
 
@@ -314,46 +358,450 @@
 </nav>
 
 
+  <div class="pub">
+
   
 
-<div class="universal-wrapper pt-3">
-  <h1>Miguel Terra-Neves</h1>
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>SQUARES : A SQL Synthesizer Using Query Reverse Engineering</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span><a href="/authors/admin/">Pedro Orvalho</a></span>, <span><a href="/authors/miguel-terra-neves/">Miguel Terra-Neves</a></span>, <span><a href="/authors/miguel-ventura/">Miguel Ventura</a></span>, <span><a href="/authors/ruben-martins/">Ruben Martins</a></span>, <span><a href="/authors/vasco-m.-manquinho/">Vasco M. Manquinho</a></span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    January 0001
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/" >
+    
+    ACM
+  </a>
+
+
 </div>
 
 
-<section id="profile-page" class="pt-5">
-  <div class="container">
+  
+</div>
+
+
+
+  <div class="article-container">
+
     
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Nowadays, many data analysts are domain experts, but they lack programming skills. As a result, many of them can provide examples of data transformations but are unable to produce the desired query. Hence, there is an increasing need for systems capable of solving the problem of Query Reverse Engineering (QRE). Given a database and output table, these systems have to find the query that generated this table. We present SQUARES, a program synthesis tool based on input-output examples that can help data analysts to extract and transform data by synthesizing SQL queries, and table manipulation programs using the R language.</p>
     
 
     
-    
-    
-    <div class="article-widget content-widget-hr">
-      <h3>Latest</h3>
-      <ul>
-        
-        <li>
-          <a href="/publication/2-cp2019/">Encodings for Enumeration-Based Program Synthesis</a>
-        </li>
-        
-        <li>
-          <a href="/publication/cp2019/">Encodings for Enumeration-Based Program Synthesis</a>
-        </li>
-        
-        <li>
-          <a href="/publication/1-vldb2020/">SQUARES : A SQL Synthesizer Using Query Reverse Engineering</a>
-        </li>
-        
-        <li>
-          <a href="/publication/vldb2020/">SQUARES : A SQL Synthesizer Using Query Reverse Engineering</a>
-        </li>
-        
-      </ul>
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
     </div>
+    <div class="d-md-none space-below"></div>
     
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">In <em>46th International Conference on Very Large Data Bases</em></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/source-themes/">Source Themes</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://pmorvalho.github.io/publication/1-vldb2020/&amp;text=SQUARES%20:%20A%20SQL%20Synthesizer%20Using%20Query%20Reverse%20Engineering" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://pmorvalho.github.io/publication/1-vldb2020/&amp;t=SQUARES%20:%20A%20SQL%20Synthesizer%20Using%20Query%20Reverse%20Engineering" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=SQUARES%20:%20A%20SQL%20Synthesizer%20Using%20Query%20Reverse%20Engineering&amp;body=https://pmorvalho.github.io/publication/1-vldb2020/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://pmorvalho.github.io/publication/1-vldb2020/&amp;title=SQUARES%20:%20A%20SQL%20Synthesizer%20Using%20Query%20Reverse%20Engineering" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=SQUARES%20:%20A%20SQL%20Synthesizer%20Using%20Query%20Reverse%20Engineering%20https://pmorvalho.github.io/publication/1-vldb2020/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://pmorvalho.github.io/publication/1-vldb2020/&amp;title=SQUARES%20:%20A%20SQL%20Synthesizer%20Using%20Query%20Reverse%20Engineering" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <img class="portrait mr-3" src="/authors/admin/avatar_huf520a8957f5c4f7e10759d1b5880aed6_336370_250x250_fill_lanczos_center_2.png" alt="Avatar">
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://pmorvalho.github.io/">Pedro Orvalho</a></h5>
+      <h6 class="card-subtitle">Junior Researcher</h6>
+      <p class="card-text">My research interests include Artificial Intelligence, Automated Reasoning and Program Repair.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:pmorvalho%20AT%20sat.inesc-id%20DOT%20com" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/pmorvalho" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://dblp.uni-trier.de/pers/hd/o/Orvalho:Pedro" target="_blank" rel="noopener">
+        <i class="ai ai-dblp"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://orcid.org/0000-0002-7407-5967" target="_blank" rel="noopener">
+        <i class="fab fa-orcid"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/pmorvalho" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
   </div>
-</section>
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/publication/2-cp2019/">Encodings for Enumeration-Based Program Synthesis</a></li>
+      
+      <li><a href="/publication/cp2019/">Encodings for Enumeration-Based Program Synthesis</a></li>
+      
+      <li><a href="/publication/3-thesis/">SQUARES : A SQL Synthesizer Using Query Reverse Engineering</a></li>
+      
+      <li><a href="/publication/vldb2020/">SQUARES : A SQL Synthesizer Using Query Reverse Engineering</a></li>
+      
+      <li><a href="/publication/msc-thesis/">SQUARES : A SQL Synthesizer Using Query Reverse Engineering</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+  </div>
+</div>
 
       
 

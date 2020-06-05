@@ -5,7 +5,7 @@
     <link>https://pmorvalho.github.io/authors/miguel-terra-neves/</link>
       <atom:link href="https://pmorvalho.github.io/authors/miguel-terra-neves/index.xml" rel="self" type="application/rss+xml" />
     <description>Miguel Terra-Neves</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 Sep 2019 13:59:34 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>https://pmorvalho.github.io/img/icon-192.png</url>
       <title>Miguel Terra-Neves</title>
@@ -14,9 +14,33 @@
     
     <item>
       <title>Encodings for Enumeration-Based Program Synthesis</title>
-      <link>https://pmorvalho.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 23 Sep 2019 13:59:34 +0200</pubDate>
-      <guid>https://pmorvalho.github.io/publication/conference-paper/</guid>
+      <link>https://pmorvalho.github.io/publication/2-cp2019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pmorvalho.github.io/publication/2-cp2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Encodings for Enumeration-Based Program Synthesis</title>
+      <link>https://pmorvalho.github.io/publication/cp2019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pmorvalho.github.io/publication/cp2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQUARES : A SQL Synthesizer Using Query Reverse Engineering</title>
+      <link>https://pmorvalho.github.io/publication/1-vldb2020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pmorvalho.github.io/publication/1-vldb2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQUARES : A SQL Synthesizer Using Query Reverse Engineering</title>
+      <link>https://pmorvalho.github.io/publication/vldb2020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pmorvalho.github.io/publication/vldb2020/</guid>
       <description></description>
     </item>
     
