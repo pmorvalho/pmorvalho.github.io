@@ -5,7 +5,7 @@
     <link>https://pmorvalho.github.io/publication_types/7/</link>
       <atom:link href="https://pmorvalho.github.io/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
     <description>7</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pmorvalho.github.io/img/icon-192.png</url>
       <title>7</title>
@@ -14,16 +14,8 @@
     
     <item>
       <title>SQUARES : A SQL Synthesizer Using Query Reverse Engineering</title>
-      <link>https://pmorvalho.github.io/publication/3-thesis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://pmorvalho.github.io/publication/3-thesis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SQUARES : A SQL Synthesizer Using Query Reverse Engineering</title>
       <link>https://pmorvalho.github.io/publication/msc-thesis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://pmorvalho.github.io/publication/msc-thesis/</guid>
       <description></description>
     </item>
