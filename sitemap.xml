@@ -4,85 +4,86 @@
   
   <url>
     <loc>https://pmorvalho.github.io/authors/admin/</loc>
-    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pmorvalho.github.io/publication_types/7/</loc>
-    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pmorvalho.github.io/authors/</loc>
-    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pmorvalho.github.io/</loc>
-    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pmorvalho.github.io/publication_types/</loc>
-    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pmorvalho.github.io/publication/</loc>
-    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pmorvalho.github.io/tags/source-themes/</loc>
-    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pmorvalho.github.io/publication/msc-thesis/</loc>
-    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pmorvalho.github.io/tags/</loc>
-    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://pmorvalho.github.io/publication_types/1/</loc>
-    <lastmod>2019-09-23T13:59:34+02:00</lastmod>
+    <lastmod>2020-08-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pmorvalho.github.io/publication/cp2019/</loc>
-    <lastmod>2019-09-23T13:59:34+02:00</lastmod>
+    <loc>https://pmorvalho.github.io/authors/</loc>
+    <lastmod>2020-08-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://pmorvalho.github.io/authors/miguel-terra-neves/</loc>
-    <lastmod>2019-09-23T13:59:34+02:00</lastmod>
+    <lastmod>2020-08-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://pmorvalho.github.io/authors/miguel-ventura/</loc>
-    <lastmod>2019-09-23T13:59:34+02:00</lastmod>
+    <lastmod>2020-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pmorvalho.github.io/</loc>
+    <lastmod>2020-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pmorvalho.github.io/publication_types/</loc>
+    <lastmod>2020-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pmorvalho.github.io/publication/</loc>
+    <lastmod>2020-08-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://pmorvalho.github.io/authors/ruben-martins/</loc>
-    <lastmod>2019-09-23T13:59:34+02:00</lastmod>
+    <lastmod>2020-08-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pmorvalho.github.io/authors/vasco-m.-manquinho/</loc>
-    <lastmod>2019-09-23T13:59:34+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pmorvalho.github.io/categories/</loc>
+    <loc>https://pmorvalho.github.io/tags/source-themes/</loc>
+    <lastmod>2020-08-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://pmorvalho.github.io/publication/vldb2020/</loc>
+    <lastmod>2020-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pmorvalho.github.io/tags/</loc>
+    <lastmod>2020-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pmorvalho.github.io/authors/vasco-m.-manquinho/</loc>
+    <lastmod>2020-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pmorvalho.github.io/publication/cp2019/</loc>
+    <lastmod>2019-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pmorvalho.github.io/publication_types/7/</loc>
+    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pmorvalho.github.io/publication/msc-thesis/</loc>
+    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pmorvalho.github.io/categories/</loc>
   </url>
   
 </urlset>

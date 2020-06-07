@@ -5,7 +5,7 @@
     <link>https://pmorvalho.github.io/</link>
       <atom:link href="https://pmorvalho.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Pedro Orvalho</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pmorvalho.github.io/img/icon-192.png</url>
       <title>Pedro Orvalho</title>
@@ -14,25 +14,25 @@
     
     <item>
       <title>SQUARES : A SQL Synthesizer Using Query Reverse Engineering</title>
-      <link>https://pmorvalho.github.io/publication/msc-thesis/</link>
-      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://pmorvalho.github.io/publication/msc-thesis/</guid>
+      <link>https://pmorvalho.github.io/publication/vldb2020/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://pmorvalho.github.io/publication/vldb2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Encodings for Enumeration-Based Program Synthesis</title>
       <link>https://pmorvalho.github.io/publication/cp2019/</link>
-      <pubDate>Mon, 23 Sep 2019 13:59:34 +0200</pubDate>
+      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://pmorvalho.github.io/publication/cp2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SQUARES : A SQL Synthesizer Using Query Reverse Engineering</title>
-      <link>https://pmorvalho.github.io/publication/vldb2020/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://pmorvalho.github.io/publication/vldb2020/</guid>
+      <link>https://pmorvalho.github.io/publication/msc-thesis/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://pmorvalho.github.io/publication/msc-thesis/</guid>
       <description></description>
     </item>
     
