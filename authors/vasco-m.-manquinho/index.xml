@@ -5,7 +5,7 @@
     <link>https://pmorvalho.github.io/authors/vasco-m.-manquinho/</link>
       <atom:link href="https://pmorvalho.github.io/authors/vasco-m.-manquinho/index.xml" rel="self" type="application/rss+xml" />
     <description>Vasco M. Manquinho</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pmorvalho.github.io/img/icon-192.png</url>
       <title>Vasco M. Manquinho</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>SQUARES : A SQL Synthesizer Using Query Reverse Engineering</title>
+      <title>AlloyMax : Bringing Maximum Satisfaction to Relational Specifications, FSE 2021</title>
+      <link>https://pmorvalho.github.io/publication/fse2021/</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://pmorvalho.github.io/publication/fse2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQUARES : A SQL Synthesizer Using Query Reverse Engineering, VLDB 2020</title>
       <link>https://pmorvalho.github.io/publication/vldb2020/</link>
       <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://pmorvalho.github.io/publication/vldb2020/</guid>
@@ -21,7 +29,7 @@
     </item>
     
     <item>
-      <title>Encodings for Enumeration-Based Program Synthesis</title>
+      <title>Encodings for Enumeration-Based Program Synthesis, CP 2019</title>
       <link>https://pmorvalho.github.io/publication/cp2019/</link>
       <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://pmorvalho.github.io/publication/cp2019/</guid>

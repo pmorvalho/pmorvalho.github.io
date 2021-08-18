@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ryan Wagner | Pedro Orvalho</title>
+    <link>https://pmorvalho.github.io/authors/ryan-wagner/</link>
+      <atom:link href="https://pmorvalho.github.io/authors/ryan-wagner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ryan Wagner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pmorvalho.github.io/img/icon-192.png</url>
+      <title>Ryan Wagner</title>
+      <link>https://pmorvalho.github.io/authors/ryan-wagner/</link>
+    </image>
+    
+    <item>
+      <title>AlloyMax : Bringing Maximum Satisfaction to Relational Specifications, FSE 2021</title>
+      <link>https://pmorvalho.github.io/publication/fse2021/</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://pmorvalho.github.io/publication/fse2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
