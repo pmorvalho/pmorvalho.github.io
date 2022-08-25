@@ -5,7 +5,7 @@
     <link>https://pmorvalho.github.io/authors/vasco-manquinho/</link>
       <atom:link href="https://pmorvalho.github.io/authors/vasco-manquinho/index.xml" rel="self" type="application/rss+xml" />
     <description>Vasco Manquinho</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 25 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pmorvalho.github.io/img/icon-192.png</url>
       <title>Vasco Manquinho</title>
@@ -13,7 +13,31 @@
     </image>
     
     <item>
-      <title>AlloyMax : Bringing Maximum Satisfaction to Relational Specifications, FSE 2021</title>
+      <title>MultIPAs: Applying Program Transformations to Introductory Programming Assignments for Data Augmentation, ESEC/FSE 2022</title>
+      <link>https://pmorvalho.github.io/publication/fse2022/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://pmorvalho.github.io/publication/fse2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project Proposal: Learning Variable Mappings to Repair Programs, AITP 2022</title>
+      <link>https://pmorvalho.github.io/publication/aitp2022/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://pmorvalho.github.io/publication/aitp2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C-Pack of IPAs: A C90 Program Benchmark of Introductory Programming Assignments</title>
+      <link>https://pmorvalho.github.io/publication/c-pack-ipas/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://pmorvalho.github.io/publication/c-pack-ipas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AlloyMax : Bringing Maximum Satisfaction to Relational Specifications, ESEC/FSE 2021</title>
       <link>https://pmorvalho.github.io/publication/fse2021/</link>
       <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://pmorvalho.github.io/publication/fse2021/</guid>

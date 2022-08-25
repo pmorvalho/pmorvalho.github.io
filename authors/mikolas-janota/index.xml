@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 | Pedro Orvalho</title>
-    <link>https://pmorvalho.github.io/publication_types/1/</link>
-      <atom:link href="https://pmorvalho.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
-    <description>1</description>
+    <title>Mikoláš Janota | Pedro Orvalho</title>
+    <link>https://pmorvalho.github.io/authors/mikolas-janota/</link>
+      <atom:link href="https://pmorvalho.github.io/authors/mikolas-janota/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mikoláš Janota</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 25 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pmorvalho.github.io/img/icon-192.png</url>
-      <title>1</title>
-      <link>https://pmorvalho.github.io/publication_types/1/</link>
+      <title>Mikoláš Janota</title>
+      <link>https://pmorvalho.github.io/authors/mikolas-janota/</link>
     </image>
     
     <item>
@@ -33,30 +33,6 @@
       <link>https://pmorvalho.github.io/publication/c-pack-ipas/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://pmorvalho.github.io/publication/c-pack-ipas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AlloyMax : Bringing Maximum Satisfaction to Relational Specifications, ESEC/FSE 2021</title>
-      <link>https://pmorvalho.github.io/publication/fse2021/</link>
-      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://pmorvalho.github.io/publication/fse2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SQUARES : A SQL Synthesizer Using Query Reverse Engineering, VLDB 2020</title>
-      <link>https://pmorvalho.github.io/publication/vldb2020/</link>
-      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://pmorvalho.github.io/publication/vldb2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Encodings for Enumeration-Based Program Synthesis, CP 2019</title>
-      <link>https://pmorvalho.github.io/publication/cp2019/</link>
-      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://pmorvalho.github.io/publication/cp2019/</guid>
       <description></description>
     </item>
     
