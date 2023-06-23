@@ -5,12 +5,20 @@
     <link>https://pmorvalho.github.io/publication/</link>
       <atom:link href="https://pmorvalho.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 25 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 23 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pmorvalho.github.io/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://pmorvalho.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>UpMax: User partitioning for MaxSAT, SAT 2023</title>
+      <link>https://pmorvalho.github.io/publication/sat2023/</link>
+      <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://pmorvalho.github.io/publication/sat2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MultIPAs: Applying Program Transformations to Introductory Programming Assignments for Data Augmentation, ESEC/FSE 2022</title>
@@ -37,7 +45,7 @@
     </item>
     
     <item>
-      <title>AlloyMax : Bringing Maximum Satisfaction to Relational Specifications, ESEC/FSE 2021</title>
+      <title>AlloyMax: Bringing Maximum Satisfaction to Relational Specifications, ESEC/FSE 2021</title>
       <link>https://pmorvalho.github.io/publication/fse2021/</link>
       <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://pmorvalho.github.io/publication/fse2021/</guid>
@@ -45,7 +53,7 @@
     </item>
     
     <item>
-      <title>SQUARES : A SQL Synthesizer Using Query Reverse Engineering, VLDB 2020</title>
+      <title>SQUARES: A SQL Synthesizer Using Query Reverse Engineering, VLDB 2020</title>
       <link>https://pmorvalho.github.io/publication/vldb2020/</link>
       <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://pmorvalho.github.io/publication/vldb2020/</guid>
@@ -61,7 +69,7 @@
     </item>
     
     <item>
-      <title>SQUARES : A SQL Synthesizer Using Query Reverse Engineering</title>
+      <title>SQUARES: A SQL Synthesizer Using Query Reverse Engineering</title>
       <link>https://pmorvalho.github.io/publication/msc-thesis/</link>
       <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://pmorvalho.github.io/publication/msc-thesis/</guid>

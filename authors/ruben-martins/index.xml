@@ -5,7 +5,7 @@
     <link>https://pmorvalho.github.io/authors/ruben-martins/</link>
       <atom:link href="https://pmorvalho.github.io/authors/ruben-martins/index.xml" rel="self" type="application/rss+xml" />
     <description>Ruben Martins</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 23 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pmorvalho.github.io/img/icon-192.png</url>
       <title>Ruben Martins</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>AlloyMax : Bringing Maximum Satisfaction to Relational Specifications, ESEC/FSE 2021</title>
+      <title>UpMax: User partitioning for MaxSAT, SAT 2023</title>
+      <link>https://pmorvalho.github.io/publication/sat2023/</link>
+      <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://pmorvalho.github.io/publication/sat2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AlloyMax: Bringing Maximum Satisfaction to Relational Specifications, ESEC/FSE 2021</title>
       <link>https://pmorvalho.github.io/publication/fse2021/</link>
       <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://pmorvalho.github.io/publication/fse2021/</guid>
@@ -21,7 +29,7 @@
     </item>
     
     <item>
-      <title>SQUARES : A SQL Synthesizer Using Query Reverse Engineering, VLDB 2020</title>
+      <title>SQUARES: A SQL Synthesizer Using Query Reverse Engineering, VLDB 2020</title>
       <link>https://pmorvalho.github.io/publication/vldb2020/</link>
       <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://pmorvalho.github.io/publication/vldb2020/</guid>
