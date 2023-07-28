@@ -5,12 +5,20 @@
     <link>https://pmorvalho.github.io/authors/mikolas-janota/</link>
       <atom:link href="https://pmorvalho.github.io/authors/mikolas-janota/index.xml" rel="self" type="application/rss+xml" />
     <description>Mikoláš Janota</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 25 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pmorvalho.github.io/img/icon-192.png</url>
       <title>Mikoláš Janota</title>
       <link>https://pmorvalho.github.io/authors/mikolas-janota/</link>
     </image>
+    
+    <item>
+      <title>Graph Neural Networks For Mapping Variables Between Programs, Accepted at ECAI 2023</title>
+      <link>https://pmorvalho.github.io/publication/ecai2023/</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://pmorvalho.github.io/publication/ecai2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MultIPAs: Applying Program Transformations to Introductory Programming Assignments for Data Augmentation, ESEC/FSE 2022</title>
