@@ -5,7 +5,7 @@
     <link>https://pmorvalho.github.io/</link>
       <atom:link href="https://pmorvalho.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Pedro Orvalho</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 23 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pmorvalho.github.io/img/icon-192.png</url>
       <title>Pedro Orvalho</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>C-Pack of IPAs: A C90 Program Benchmark of Introductory Programming Assignments, Accepted at APR 2024</title>
+      <title>CFaults: Model-Based Diagnosis for Fault Localization in C with Multiple Test Cases, Accepted at FM 2024</title>
+      <link>https://pmorvalho.github.io/publication/fm2024/</link>
+      <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://pmorvalho.github.io/publication/fm2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C-Pack of IPAs: A C90 Program Benchmark of Introductory Programming Assignments, APR 2024</title>
       <link>https://pmorvalho.github.io/publication/apr2024/</link>
       <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://pmorvalho.github.io/publication/apr2024/</guid>
