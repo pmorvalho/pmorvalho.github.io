@@ -5,7 +5,7 @@
     <link>https://pmorvalho.github.io/authors/vasco-manquinho/</link>
       <atom:link href="https://pmorvalho.github.io/authors/vasco-manquinho/index.xml" rel="self" type="application/rss+xml" />
     <description>Vasco Manquinho</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 23 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pmorvalho.github.io/img/icon-192.png</url>
       <title>Vasco Manquinho</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>CFaults: Model-Based Diagnosis for Fault Localization in C with Multiple Test Cases, Accepted at FM 2024</title>
+      <title>GitSEED: A Git-backed Automated Assessment Tool for Software Engineering and Programming Education, SIGCSE Virtual 2024</title>
+      <link>https://pmorvalho.github.io/publication/sigcse-virtual-2024/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://pmorvalho.github.io/publication/sigcse-virtual-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CFaults: Model-Based Diagnosis for Fault Localization in C with Multiple Test Cases, FM 2024</title>
       <link>https://pmorvalho.github.io/publication/fm2024/</link>
       <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://pmorvalho.github.io/publication/fm2024/</guid>
