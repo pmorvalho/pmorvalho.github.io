@@ -5,7 +5,7 @@
     <link>https://pmorvalho.github.io/publication_types/7/</link>
       <atom:link href="https://pmorvalho.github.io/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
     <description>7</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pmorvalho.github.io/img/icon-192.png</url>
       <title>7</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>SQUARES: A SQL Synthesizer Using Query Reverse Engineering</title>
+      <title>MENTOR: Automated Feedback for Introductory Programming Exercises, PhD Thesis</title>
+      <link>https://pmorvalho.github.io/publication/phd-thesis/</link>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://pmorvalho.github.io/publication/phd-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQUARES: A SQL Synthesizer Using Query Reverse Engineering, MSc Thesis</title>
       <link>https://pmorvalho.github.io/publication/msc-thesis/</link>
       <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://pmorvalho.github.io/publication/msc-thesis/</guid>
