@@ -5,7 +5,7 @@
     <link>https://pmorvalho.github.io/tags/source-themes/</link>
       <atom:link href="https://pmorvalho.github.io/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 25 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pmorvalho.github.io/img/icon-192.png</url>
       <title>Source Themes</title>
@@ -15,15 +15,23 @@
     <item>
       <title>Counterexample Guided Program Repair Using Zero-Shot Learning and MaxSAT-based Fault Localization, AAAI 2025</title>
       <link>https://pmorvalho.github.io/publication/aaai2025/</link>
-      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://pmorvalho.github.io/publication/aaai2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>InvAASTCluster: On Applying Invariant-Based Program Clustering to Introductory Programming Assignments, JSS 2025 </title>
+      <link>https://pmorvalho.github.io/publication/jss2025/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://pmorvalho.github.io/publication/jss2025/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MENTOR: Automated Feedback for Introductory Programming Exercises, PhD Thesis</title>
       <link>https://pmorvalho.github.io/publication/phd-thesis/</link>
-      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://pmorvalho.github.io/publication/phd-thesis/</guid>
       <description></description>
     </item>
