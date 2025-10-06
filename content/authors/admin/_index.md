@@ -39,9 +39,9 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
+  - icon: envelope
+    icon_pack: fas
     url: 'mailto:pmorvalho AT gmail.com'
-    label: E-mail Me    
   - icon: brands/bluesky
     url: https://bsky.app/profile/pmorvalho.bsky.social
   - icon: brands/github
@@ -344,5 +344,7 @@ During the final year of my MSc in Computer Science, I worked as a **Research As
 
 I am the proud recipient of the some 🏆 [awards and grants](awards) 🏆, including the [Vencer o Adamastor](https://inesc.pt/en/vencer-o-adamastor-2/) 2025 prize, which acknowledges innovative contributions by young scientists in Portugal; and the ACM SIGSOFT Distinguished Paper Award at ESEC/FSE 2021.
 
-{{< button url="experience" new_tab="true" style="secondary" rounded="full" align="center" color="blue" >}}Check out my CV!{{< /button >}}
+📧 You can reach me at *pmorvalho* (AT) *gmail.com*! 📧
+
+{{< button url="experience" style="secondary" rounded="full" align="center" color="blue" >}}Check out my CV!{{< /button >}}
  
