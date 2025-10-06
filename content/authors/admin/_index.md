@@ -49,7 +49,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/pmorvalho
   - icon: academicons/dblp
-    url: https:/dblp.uni-trier.de/pid/249/1872.html   
+    url: https://dblp.uni-trier.de/pid/249/1872.html
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=en&user=FfqinEsAAAAJ
   - icon: academicons/orcid
