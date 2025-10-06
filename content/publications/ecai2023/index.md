@@ -1,0 +1,86 @@
+---
+title: "Graph Neural Networks For Mapping Variables Between Programs"
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
+authors:
+- admin
+- Jelle Piepenbrock
+- Mikoláš Janota
+- Vasco Manquinho
+
+# Author notes (optional)
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
+
+date: '2023-07-28T00:00:00Z'
+
+# Schedule page publish date (NOT publication's date).
+publishDate: '2023-10-20T00:00:00Z'
+
+# Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ['paper-conference']
+
+# Publication name and optional abbreviated publication name.
+publication: In the 26th European Conference on Artificial Intelligence (ECAI) 2023 **[CORE A Conference]**.
+publication_short: In **ECAI 2023**
+
+abstract: Automated program analysis is a pivotal research domain in many areas of Computer Science -- Formal Methods and Artificial Intelligence, in particular. Due to the undecidability of the problem of program equivalence, comparing two programs is highly challenging. Typically, in order to compare two programs, a relation between both programs' sets of variables is required. Thus, mapping variables between two programs is useful for a panoply of tasks such as program equivalence, program analysis, program repair, and clone detection. In this work, we propose using graph neural networks (GNNs) to map the set of variables between two programs based on both programs' abstract syntax trees (ASTs). To demonstrate the strength of variable mappings, we present three use-cases of these mappings on the task of program repair to fix well-studied and recurrent bugs among novice programmers in introductory programming assignments (IPAs). Experimental results on a dataset of 4166 pairs of incorrect/correct programs show that our approach correctly maps 83% of the evaluation dataset. Moreover, our experiments show that the current state-of-the-art on program repair, greatly dependent on the programs' structure, can only repair about 72% of the incorrect programs. In contrast, our approach, which is solely based on variable mappings, can repair around 88.5%.
+
+# Summary. An optional shortened abstract.
+summary: In this work, we propose using graph neural networks (GNNs) to map the set of variables between two programs based on both programs' abstract syntax trees (ASTs). To demonstrate the strength of variable mappings, we present three use-cases of these mappings on the task of program repair to fix well-studied and recurrent bugs among novice programmers in introductory programming assignments (IPAs).
+
+tags:
+  - Variable Alignment
+  - Graph Neural Networks
+  - Program Analysis
+  - Automated Program Repair  
+  - Artificial Intelligence
+  - MENTOR
+  
+# Display this page in the Featured widget?
+featured: true
+
+# Standard identifiers for auto-linking
+hugoblox:
+  ids:
+    doi: 10.3233/FAIA230468
+    arxiv: 2307.13014
+
+# Custom links
+links:
+  - type: pdf
+    url: "../uploads/papers/ecai23-paper.pdf"
+  - type: code  
+    url: https://github.com/pmorvalho/ecai23-GNNs-for-mapping-variables-between-programs
+  - name: project
+    url: projects/mentor
+  - type: poster
+    url: "../uploads/posters/poster-ecai23.pdf"
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: 'Image credit: [**ECAI**](https://ecai2023.eu)'
+  focal_point: ''
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+  - mentor
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: ""
+---

@@ -4,9 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: Hugo Academic CV Theme
+title: Pedro Orvalho
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'https://pmorvalho.github.io/'
 
 ############################
 ## LANGUAGE
@@ -26,7 +26,7 @@ build:
 enableGitInfo: false
 summaryLength: 30
 pagination:
-  pagerSize: 10
+  pagerSize: 15  
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>

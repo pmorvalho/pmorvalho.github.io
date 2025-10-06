@@ -6,7 +6,9 @@
 # Appearance
 appearance:
   mode: system
-  color: indigo
+  color: red
+# # default below
+#   color: indigo
 
 # SEO
 marketing:
@@ -14,7 +16,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+    description: "Pedro Orvalho\'s webpage."
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -35,16 +37,17 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: 'Your Name'
+      text: 'Pedro Orvalho'
 
 # Site footer
 footer:
+  block: minimal
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Pedro Orvalho. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization

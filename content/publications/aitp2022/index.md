@@ -1,0 +1,81 @@
+---
+title: "Project Proposal: Learning Variable Mappings to Repair Programs"
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
+authors:
+- admin
+- Jelle Piepenbrock
+- Mikoláš Janota
+- Vasco Manquinho
+
+# Author notes (optional)
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
+
+date: '2022-08-24T00:00:00Z'
+
+# Schedule page publish date (NOT publication's date).
+publishDate: '2022-08-24T00:00:00Z'
+
+# Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ['paper-conference']
+
+# Publication name and optional abbreviated publication name.
+publication: In the 7th Conference on Artificial Intelligence and Theorem Proving
+publication_short: In **AITP 2022**
+
+
+abstract:  The increasing demand for programming education has given rise to all kinds of online evaluations, such as Massive Open Online Courses (MOOCs) focused on introductory programming assignments (IPAs), especially over the last few years due to the coronavirus outbreak. As a consequence of a large number of enrolled students, one of the main challenges in these courses is to provide valuable and personalized feedback to students. This personalized feedback can be provided as a list of possible repairs to a student's program. Typically semantic program repair tools repair an incorrect program using a correct implementation for the same IPA. In order to compare both programs, a relation between both programs' sets of variables is required. Thus, in this work, we propose to learn how to map the set of variables between different small imperative programs based on both programs' abstract syntax trees (ASTs) using graph neural networks (GNNs).
+
+# Summary. An optional shortened abstract.
+summary: In this position paper, we propose to learn how to map the set of variables between different small imperative programs based on both programs' abstract syntax trees (ASTs) using graph neural networks (GNNs).
+
+tags:
+  - Variable Alignment
+  - Graph Neural Networks
+  - Program Analysis
+  - Automated Program Repair  
+  - Artificial Intelligence
+
+# Display this page in the Featured widget?
+featured: false
+
+
+# Custom links
+links:
+  - type: pdf
+    url: "../uploads/papers/aitp22-learning_2_map_vars_between_IPAs.pdf"
+  - name: project
+    url: projects/mentor
+#   - type: slides
+#     url: https://www.slideshare.net/
+#   - type: video
+#     url: https://youtube.com
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: 'Image credit: [**AITP**](https://aitp-conference.org/2022/)'
+  focal_point: ''
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+  - mentor
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: ""
+---

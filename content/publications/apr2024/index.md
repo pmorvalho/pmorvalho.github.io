@@ -1,0 +1,85 @@
+---
+title: "C-Pack of IPAs: A C90 Program Benchmark of Introductory Programming Assignments"
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
+authors:
+- admin
+- Mikoláš Janota
+- Vasco Manquinho
+
+# Author notes (optional)
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
+
+date: '2024-04-20T00:00:00Z'
+
+# Schedule page publish date (NOT publication's date).
+publishDate: '2024-04-20T00:00:00Z'
+
+# Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ['Workshop']
+
+# Publication name and optional abbreviated publication name.
+publication: In the *5th International Workshop on Automated Program Repair (APR 2024)*.
+publication_short: In **APR 2024**
+
+
+abstract: Given the vast number of students enrolled in Massive Open Online Courses (MOOCs), there has been a notable surge in automated program repair techniques tailored for introductory programming assignments (IPAs). These techniques leverage correct student implementations to provide automated, comprehensive, and personalized feedback to the students. This paper presents C-Pack-IPAs, a publicly available benchmark  comprising student-program submissions for 25 distinct IPAs. C-Pack-IPAs contains semantically correct, semantically incorrect, and syntactically incorrect programs, along with a dedicated test suite for each IPA. Hence, C-Pack-IPAs serves as a valuable resource for evaluating the progress of novel automated program repair frameworks, addressing both semantic and syntactic aspects, with a specific focus on providing feedback to novice programmers. Notably, some semantically incorrect programs in C-Pack-IPAs have been manually fixed and annotated with diverse program features, enhancing their utility for the development of various program analysis frameworks. Moreover, we conducted evaluations on C-Pack-IPAs using two leading semantic program repair tools tailored for IPAs, Clara and Verifix.
+
+# Summary. An optional shortened abstract.
+summary: A C90 Program Benchmark of Introductory Programming Assignments (IPAs), that contains semantically correct, semantically incorrect, and syntactically incorrect programs and a test suite for each IPA.
+
+tags:
+  - Automated Program Repair
+  - Computer-aided Education
+  - C-Pack-IPAs  
+
+# Display this page in the Featured widget?
+featured: true
+
+# Standard identifiers for auto-linking
+hugoblox:
+  ids:
+    doi: 10.1145/3643788.3648010
+    arxiv: 2206.08768
+
+# Custom links
+links:
+  - type: pdf
+    url: "../uploads/papers/apr24-paper.pdf"
+  - type: code  
+    url: https://github.com/pmorvalho/C-Pack-IPAs
+  - name: project
+    url: projects/mentor
+#   - type: slides
+#     url: https://www.slideshare.net/
+#   - type: video
+#     url: https://youtube.com
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: 'Image credit: [**APR Workshop**](https://program-repair.org/workshop-2024)'
+  focal_point: ''
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+  - mentor
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: ""
+---
