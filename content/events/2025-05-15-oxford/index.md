@@ -1,7 +1,7 @@
 ---
 title: Are Large Language Models Robust in Understanding Code Against Semantics-Preserving Mutations?
 
-event: QAVAS Group Meeting, University of Oxford
+event: QAVAS Meeting, University of Oxford
 event_url: 
 
 location: Department of Computer Science, University of Oxford

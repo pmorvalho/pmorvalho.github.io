@@ -18,6 +18,8 @@ image:
 
 🎉 **Thrilled to Share!**
 
-I am excited to announce that I have been selected for a **MSCA COFUND Postdoctoral Fellowship** at the **Artificial Intelligence Research Institute (IIIA)** and the **Institute of Robotics and Industrial Informatics ([IRI](https://www.iri.upc.edu))**, both located in **Barcelona** and part of the **Consejo Superior de Investigaciones Científicas (CSIC)**.  
+I am excited to announce that I have been selected for a **MSCA COFUND Postdoctoral Fellowship** at the **Artificial Intelligence Research Institute (IIIA)** and the **Institute of Robotics and Industrial Informatics ([IRI](https://www.iri.upc.edu))**, both located in **Barcelona** and part of the **Consejo Superior de Investigaciones Científicas (CSIC)**. 
 
-I will be jointly advised by **Dr. [Felip Manyà](https://scholar.google.com/citations?user=D6H0ickAAAAJ&hl=en)** (IIIA-CSIC) and **Dr. [Guillem Alenyà](https://www.iri.upc.edu/people/galenya)** (IRI-CSIC-UPC) as part of the [**ALLIES**](https://aihub.csic.es/en/allies-cofund/) research project.  
+I will be jointly advised by **Dr. [Felip Manyà](https://scholar.google.com/citations?user=D6H0ickAAAAJ&hl=en)** (IIIA-CSIC) and **Dr. [Guillem Alenyà](https://www.iri.upc.edu/people/galenya)** (IRI-CSIC-UPC) as part of the [**ALLIES**](https://aihub.csic.es/en/allies-cofund/) research program.
+
+The ALLIES program is a postdoctoral training initiative in artificial intelligence led by the Spanish National Research Council (CSIC), coordinated through the [AIHUB Connection](https://aihub.csic.es/en), and co-funded by the European Union, under the  **Marie Skłodowska-Curie Actions (MSCA) COFUND scheme**.
