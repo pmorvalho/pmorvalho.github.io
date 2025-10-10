@@ -54,13 +54,26 @@ Based on these insights, we argue that current evaluation paradigms for LLMs in 
 
 ## 🧩 PyVeritas 🐍: Formal Verification for Python via LLMs  
 
-Python has become the dominant language for general-purpose programming, yet it lacks robust tools for **formal verification**. In contrast, languages such as **C** benefit from mature model checkers (e.g., **[CBMC](https://github.com/diffblue/cbmc)**) that enable exhaustive symbolic reasoning and fault localisation.  
+Python has become the dominant language for general-purpose programming, yet it still lacks robust tools for **formal verification**. In contrast, languages such as **C** benefit from mature model checkers, like **[CBMC](https://github.com/diffblue/cbmc)**, that enable **exhaustive symbolic reasoning** and **fault localisation**.  
 
-However, the **complexity of Python** and the **verbosity** of existing transpilers (e.g., *[Cython](https://cython.org)*) have historically limited the applicability of such techniques to Python programs.  
+However, the **semantic complexity of Python** and the **verbosity of existing transpilers** (e.g., **[Cython](https://cython.org)**) have historically limited the applicability of such verification techniques to Python programs.  
 
-To address this gap, we developed **[PyVeritas](https://arxiv.org/abs/2508.08171)**, a novel framework that leverages LLMs for **high-level transpilation** from Python to C, followed by **bounded model checking** and **MaxSAT-based fault localisation** in the generated C code.  
+To address this gap, we developed **[PyVeritas](https://arxiv.org/abs/2508.08171)**, which is a novel framework that leverages **Large Language Models (LLMs)** for **high-level transpilation** from Python to C, followed by **bounded model checking**, using CBMC, and **MaxSAT-based fault localisation**, using **[CFaults](/projects/cfaults)**, on the generated C code.  
 
-PyVeritas enables verification and bug localisation for Python code using existing model-checking tools for C. Our empirical evaluation on two Python benchmarks demonstrates that LLM-based transpilation can achieve **80–90% accuracy** for some models, enabling an effective development environment that supports **assertion-based verification** and **interpretable fault diagnosis** for small yet non-trivial Python programs.  
+The following figure illustrates the PyVeritas verification pipeline:  
+
+<img src="PyVeritas.png" alt="Overview of PyVeritas." style="display:block; margin-left:auto; margin-right:auto; width:100%;"/>
+
+The goal of PyVeritas is to **bridge the gap in formal verification for Python**, providing an effective verification pipeline **while a robust native model checker for the language is still lacking**.  
+
+PyVeritas operates by translating Python programs into C code using LLM-based transpilation, then leveraging mature C verification infrastructure to perform **symbolic analysis** and **fault localisation**.
+
+Given a Python program and its specification, PyVeritas returns either a **formal correctness or failure verdict**, or a **set of localised buggy statements** mapped back to the original Python source.  
+
+In this way, PyVeritas enables **formal verification** and **bug localisation** for Python code using existing model-checking tools for C.  
+
+Our empirical evaluation on two Python benchmarks shows that LLM-based transpilation can achieve **80–90% accuracy** for some models, enabling an effective environment that supports **assertion-based verification** and **interpretable fault diagnosis** for small yet non-trivial Python programs.  
+
 
 ---
 
@@ -86,9 +99,9 @@ Together, these efforts aim to **bridge the gap between AI-driven code generatio
 
 ##  References
 
-- **Pedro Orvalho**, and Marta Kwiatkowska (2025). [Are Large Language Models Robust in Understanding Code Against Semantics-Preserving Mutations?](https://arxiv.org/abs/2505.10443) In *arXiv* 2025. 
+- **Pedro Orvalho**, and Marta Kwiatkowska (2025). [Are Large Language Models Robust in Understanding Code Against Semantics-Preserving Mutations?](https://arxiv.org/abs/2505.10443). In *arXiv* 2025. 
 
-- **Pedro Orvalho**, and Marta Kwiatkowska (2025). [PyVeritas: On Verifying Python via LLM-Based Transpilation and Bounded Model Checking for C](https://arxiv.org/abs/2508.08171) In *arXiv* 2025. 
+- **Pedro Orvalho**, and Marta Kwiatkowska (2025). [PyVeritas: On Verifying Python via LLM-Based Transpilation and Bounded Model Checking for C](https://arxiv.org/abs/2508.08171). In *arXiv* 2025. 
 
 - {{< cite page="/publications/fm2024" >}}
 
