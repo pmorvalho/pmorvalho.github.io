@@ -55,7 +55,7 @@ hugoblox:
 # Custom links
 links:
   - type: pdf
-    url: "../uploads/papers/aaai25-LLM-CEGIS-Repair.pdf"
+    url: "../uploads/papers/fm24-paper.pdf"
   - type: code  
     url: https://github.com/pmorvalho/CFaults
   - name: Zenodo
