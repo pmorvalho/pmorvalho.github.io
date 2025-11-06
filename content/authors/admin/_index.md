@@ -42,18 +42,18 @@ profiles:
   - icon: envelope
     icon_pack: fas
     url: 'mailto:pmorvalho AT gmail.com'
-  - icon: brands/bluesky
-    url: https://bsky.app/profile/pmorvalho.bsky.social
   - icon: brands/github
     url: https://github.com/pmorvalho
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/pmorvalho
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0002-7407-5967        
   - icon: academicons/dblp
     url: https://dblp.uni-trier.de/pid/249/1872.html
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?hl=en&user=FfqinEsAAAAJ
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-7407-5967
+    url: https://scholar.google.com/citations?hl=en&user=FfqinEsAAAAJ    
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/pmorvalho    
+  - icon: brands/bluesky
+    url: https://bsky.app/profile/pmorvalho.bsky.social
 
 interests:
 - Artificial Intelligence
@@ -142,7 +142,7 @@ work:
     date_start: 2025-10-01
     date_end: ''
     summary: |2-
-      I am a visiting researcher working with Professor [Marta Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/).          
+      I am a visiting researcher working with Professor [Marta Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/), supported by an [ELSA Mobility Grant](/blog/2025-10-01-elsa-grant/).          
   - position: Postdoctoral Research Associate
     company_name: 🇬🇧 Department of Computer Science, University of Oxford, UK 🇬🇧
     company_url: 'https://www.cs.ox.ac.uk/'
@@ -150,7 +150,7 @@ work:
     date_start: 2025-01-13
     date_end: '2025-09-30'
     summary: |2-
-      I was a Postdoctoral Researcher in the Department of Computer Science at University of Oxford, working with Professor [Marta Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/) on the [FUN2MODEL](http://fun2model.org) ERC project (Oct. 2019 -- Oct. 2025).
+      I was a Postdoctoral Researcher in the Department of Computer Science at University of Oxford, working with Professor [Marta Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/) on the [FUN2MODEL](http://fun2model.org) ERC project (Oct. 2019 -- Sep. 2025).
   - position: Visiting Doctoral Researcher
     company_name: 🇨🇿 CIIRC, Czech Technical University in Prague, Czechia 🇨🇿
     company_url: 'https://www.ciirc.cvut.cz'
@@ -161,7 +161,7 @@ work:
       I was a visiting PhD student at CIIRC for several research stays during my PhD, as it served as one of my host institutions.
 
       Research stays:
-        - June -- July 2024, under an ELISE Mobility Grant
+        - June -- July 2024, supported by an [ELISE Mobility Grant](https://www.elise-ai.eu)
         - February -- April 2023
         - March -- August 2022
 
@@ -189,7 +189,7 @@ work:
     date_start: 2020-02-01
     date_end: '2025-01-14'
     summary: |2-
-      I have served as a TA at Instituto Superior Técnico for six different courses across the scientific areas of *Artificial Intelligence* and *Programming Methodology*.
+      I have served as a TA at Instituto Superior Técnico for [six different courses](/teaching/) across the scientific areas of *Artificial Intelligence* and *Programming Methodology*.
   - position: Junior Intern
     company_name: INESC-ID
     company_url: 'https://inesc-id.pt'
@@ -272,6 +272,13 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: ELSA Mobility Grant
+    url: https://elsa-ai.eu
+    date: '2025-10-01'
+    awarder: ELLIS Network, European Union
+    icon: hero/currency-dollar
+    summary: |
+      Received an ELSA Research Mobility Grant (up to 3000 €) for a stay at the 🇬🇧 Department of Computer Science, University of Oxford, UK 🇬🇧, from October to December 2025.
   - title: MSCA COFUND Postdoctoral Fellowship
     url: https://aihub.csic.es/en/allies-cofund
     date: '2025-08-01'
@@ -283,7 +290,7 @@ awards:
     url: https://inesc.pt/en/vencer-o-adamastor-2
     date: '2025-04-11'
     awarder: INESC + Publico
-    icon: hero/currency-dollar
+    icon: hero/trophy
     summary: |
       I am the proud recipient of the VoA Award 2025! This 20,000€ scientific prize acknowledges innovative contributions by young scientists (<40y) in Portugal across the fields of computing, electrotechnics, and related disciplines.
   - title: Excellence in Teaching IST Award (2024)
@@ -292,12 +299,12 @@ awards:
     awarder: Instituto Superior Tecnico (IST) - Universidade de Lisboa
     icon: hero/academic-cap
   - title: ELISE Mobility Grant
-    url: https://ellis.eu
+    url: https://www.elise-ai.eu
     date: '2024-06-01'
     awarder: ELLIS Network, European Union
     icon: hero/currency-dollar
     summary: |
-      Up to 5,000€ for a research stay in Prague, Czechia.
+      Received an ELISE Research Mobility Grant (up to 5000 €) for a stay at 🇨🇿 CIIRC, Czech Technical University in Prague 🇨🇿, from June to July 2024.      
   - title: COST Travel Grant
     url: https://www.cost.eu/cost-actions-event/browse-actions
     date: '2022-09-01'
@@ -334,17 +341,20 @@ awards:
     icon: hero/academic-cap
 ---
 
-I am a **MSCA COFUND Postdoctoral Fellow** at the **Artificial Intelligence Research Centre ([IIIA](https://iiia.csic.es))**, **Spanish National Research Council ([CSIC](https://www.csic.es/en/csic))**, collaborating with [Felip Manyà](https://scholar.google.com/citations?user=D6H0ickAAAAJ&hl=en) at IIIA-CSIC and [Guillem Alenyà](https://www.iri.upc.edu/people/galenya) at IRI-CSIC-UPC on the [ALLIES](https://aihub.csic.es/en/allies-cofund/) project.
+I am a **MSCA COFUND Postdoctoral Fellow** at the **[Artificial Intelligence Research Centre (IIIA)](https://iiia.csic.es)**, **[Spanish National Research Council (CSIC)](https://www.csic.es/en/csic)**, collaborating with [Felip Manyà](https://scholar.google.com/citations?user=D6H0ickAAAAJ&hl=en) (IIIA-CSIC) and [Guillem Alenyà](https://www.iri.upc.edu/people/galenya) (IRI-CSIC-UPC) on the [ALLIES](https://aihub.csic.es/en/allies-cofund/) project.  
+I am also a **Visiting Researcher** in the **Department of Computer Science** at the **[University of Oxford](https://www.ox.ac.uk)**, working with Professor [Marta Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/).
 
-Before joining IIIA-CSIC, I was a **Postdoctoral Research Associate** at the **University of Oxford**, collaborating with [Marta Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/) on the [FUN2MODEL](http://fun2model.org) ERC project.
+Before joining IIIA-CSIC, I was a **Postdoctoral Research Associate** at the **University of Oxford**, contributing to the [FUN2MODEL](http://fun2model.org) ERC project under the supervision of Professor Kwiatkowska.
 
-I hold a **Ph.D. in Computer Science** from **Instituto Superior Técnico** ([IST](https://tecnico.ulisboa.pt)), **Universidade de Lisboa** ([UL](https://www.ulisboa.pt/en)), completed as part of a European Doctorate Programme in collaboration with the **Czech Technical University** ([CTU](https://www.cvut.cz/en)) in Prague, Czechia.  I had the privilege of being advised by [Vasco Manquinho](http://sat.inesc-id.pt/~vmm/research/index.html) and [Mikoláš Janota](http://people.ciirc.cvut.cz/~janotmik/), with research hosted at [INESC-ID](https://www.inesc-id.pt), IST in Lisbon, and [CIIRC](https://www.ciirc.cvut.cz), CTU in Prague.
+I hold a **Ph.D. in Computer Science** from **[Instituto Superior Técnico (IST)](https://tecnico.ulisboa.pt)**, **[Universidade de Lisboa (UL)](https://www.ulisboa.pt/en)**, completed as part of a **European Doctorate Programme** in collaboration with the **[Czech Technical University (CTU)](https://www.cvut.cz/en)** in Prague.  
+My doctoral research was supervised by [Vasco Manquinho](http://sat.inesc-id.pt/~vmm/research/index.html) and [Mikoláš Janota](http://people.ciirc.cvut.cz/~janotmik/), with research hosted at [INESC-ID](https://www.inesc-id.pt), IST (Lisbon), and [CIIRC](https://www.ciirc.cvut.cz), CTU (Prague).
 
-During the final year of my MSc in Computer Science, I worked as a **Research Assistant** at **Carnegie Mellon University** ([CMU](https://www.cmu.edu)), collaborating with [Ruben Martins](https://sat-group.github.io/ruben/). I also gained industry experience as a **Research Intern** at [OutSystems](https://outsystems.com), a leading Portuguese software company.
+During the final year of my **M.Sc. in Computer Science**, I was a **Research Assistant** at **[Carnegie Mellon University (CMU)](https://www.cmu.edu)**, collaborating with [Ruben Martins](https://sat-group.github.io/ruben/). I also gained industry experience as a **Research Intern** at [OutSystems](https://outsystems.com), a leading Portuguese software company.
 
-I am the proud recipient of the some 🏆 [awards and grants](awards) 🏆, including the [Vencer o Adamastor](https://inesc.pt/en/vencer-o-adamastor-2/) 2025 prize, which acknowledges innovative contributions by young scientists in Portugal; and the ACM SIGSOFT Distinguished Paper Award at ESEC/FSE 2021.
+I am the proud recipient of several 🏆 [awards and grants](awards) 🏆, including the [Vencer o Adamastor](https://inesc.pt/en/vencer-o-adamastor-2/) 2025 prize, which recognizes innovative contributions by young scientists in Portugal, and the **ACM SIGSOFT Distinguished Paper Award** at **ESEC/FSE 2021**.
 
-📧 You can reach me at *pmorvalho* (AT) *gmail.com*! 📧
+📧 You can reach me at *pmorvalho* (AT) *gmail.com* 📧
+
 
 {{< button url="experience" style="secondary" rounded="full" align="center" color="blue" >}}Check out my CV!{{< /button >}}
  

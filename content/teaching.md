@@ -37,9 +37,9 @@ id: teaching
     <tr>
       <td style="padding:8px;">Tiago Vaz</td>
       <td style="padding:8px;">MSc in CS</td>
-      <td style="padding:8px;">Feb. 2025 – now</td>
+      <td style="padding:8px;">Feb. 2025 – Oct. 2025</td>
       <td style="padding:8px;">Co-advisor</td>
-      <td style="padding:8px;">Automated Program Repair of Introductory Programming Assignments in C</td>
+      <td style="padding:8px;">FeedFix: Generating Abstract and Personalized Feedback for Introductory Programming Assignments Through Automated Program Repair</td>
       <td style="padding:8px;">IST, UL, Portugal</td>
       <td style="padding:8px;"><a href="https://sat.inesc-id.pt/~vmm/research/index.html">Vasco Manquinho</a></td>
     </tr>
