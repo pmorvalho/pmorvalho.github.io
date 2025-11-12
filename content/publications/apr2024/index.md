@@ -26,7 +26,7 @@ publication_types: ['Workshop']
 
 # Publication name and optional abbreviated publication name.
 publication: In the *5th International Workshop on Automated Program Repair (APR 2024)*.
-publication_short: In **APR 2024**
+publication_short: In **APR @ ICSE 2024**
 
 
 abstract: Given the vast number of students enrolled in Massive Open Online Courses (MOOCs), there has been a notable surge in automated program repair techniques tailored for introductory programming assignments (IPAs). These techniques leverage correct student implementations to provide automated, comprehensive, and personalized feedback to the students. This paper presents C-Pack-IPAs, a publicly available benchmark  comprising student-program submissions for 25 distinct IPAs. C-Pack-IPAs contains semantically correct, semantically incorrect, and syntactically incorrect programs, along with a dedicated test suite for each IPA. Hence, C-Pack-IPAs serves as a valuable resource for evaluating the progress of novel automated program repair frameworks, addressing both semantic and syntactic aspects, with a specific focus on providing feedback to novice programmers. Notably, some semantically incorrect programs in C-Pack-IPAs have been manually fixed and annotated with diverse program features, enhancing their utility for the development of various program analysis frameworks. Moreover, we conducted evaluations on C-Pack-IPAs using two leading semantic program repair tools tailored for IPAs, Clara and Verifix.
