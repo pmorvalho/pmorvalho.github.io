@@ -102,7 +102,7 @@ This iterative process enables LLMs to repair **more programs** and produce **sm
 
 CFaults’ underlying principles have also been extended beyond C.  
 
-[**PyVeritas**](https://arxiv.org/pdf/2508.08171) is a framework that uses **LLMs for high-level transpilation** from Python to C, followed by **bounded model checking** and **MaxSAT-based fault localisation** via CFaults.  
+[**PyVeritas**](/publications/p-ai-fm-2026) is a framework that uses **LLMs for high-level transpilation** from Python to C, followed by **bounded model checking** and **MaxSAT-based fault localisation** via CFaults.  
 
 This approach enables verification and bug localisation for Python code using existing C verification tools.  
 Empirical evaluations on Python benchmarks demonstrate that LLM-based transpilation achieves **80–90% accuracy** for some models, opening a new pathway for combining **language models** with **formal verification**.  
@@ -121,7 +121,7 @@ CFaults exemplifies how **symbolic reasoning and constraint optimisation** can s
 
 - {{< cite page="/publications/sigcse-virtual-2024" >}}
 
-- **Pedro Orvalho**, and Marta Kwiatkowska (2025). [PyVeritas: On Verifying Python via LLM-Based Transpilation and Bounded Model Checking for C](https://arxiv.org/abs/2508.08171) In *arXiv* 2025. 
+- {{< cite page="/publications/p-ai-fm-2026" >}}
 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12510220.svg)](https://doi.org/10.5281/zenodo.12510220)

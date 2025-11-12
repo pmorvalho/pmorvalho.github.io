@@ -58,7 +58,7 @@ Python has become the dominant language for general-purpose programming, yet it 
 
 However, the **semantic complexity of Python** and the **verbosity of existing transpilers** (e.g., **[Cython](https://cython.org)**) have historically limited the applicability of such verification techniques to Python programs.  
 
-To address this gap, we developed **[PyVeritas](https://arxiv.org/abs/2508.08171)**, which is a novel framework that leverages **Large Language Models (LLMs)** for **high-level transpilation** from Python to C, followed by **bounded model checking**, using CBMC, and **MaxSAT-based fault localisation**, using **[CFaults](/projects/cfaults)**, on the generated C code.  
+To address this gap, we developed **[PyVeritas](/publications/p-ai-fm-2026)**, which is a novel framework that leverages **Large Language Models (LLMs)** for **high-level transpilation** from Python to C, followed by **bounded model checking**, using CBMC, and **MaxSAT-based fault localisation**, using **[CFaults](/projects/cfaults)**, on the generated C code.  
 
 The following figure illustrates the PyVeritas verification pipeline:  
 
@@ -101,7 +101,7 @@ Together, these efforts aim to **bridge the gap between AI-driven code generatio
 
 - **Pedro Orvalho**, and Marta Kwiatkowska (2025). [Are Large Language Models Robust in Understanding Code Against Semantics-Preserving Mutations?](https://arxiv.org/abs/2505.10443). In *arXiv* 2025. 
 
-- **Pedro Orvalho**, and Marta Kwiatkowska (2025). [PyVeritas: On Verifying Python via LLM-Based Transpilation and Bounded Model Checking for C](https://arxiv.org/abs/2508.08171). In *arXiv* 2025. 
+- {{< cite page="/publications/p-ai-fm-2026" >}}
 
 - {{< cite page="/publications/fm2024" >}}
 
