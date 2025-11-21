@@ -12,7 +12,14 @@ design:
 id: service
 ---
 
-## PC Member (Reviewer)
+## Organization
+
+| Year | Conference                                                                                                       | Role          |
+|------|------------------------------------------------------------------------------------------------------------------|---------------|
+| 2026 | [32nd International Conference on Principles and Practice of Constraint Programming (CP)](http://cp2026.a4cp.org)| Website Chair |
+
+
+## Program Committees
 
 | Year | Conference                                                                                                 |
 |------|------------------------------------------------------------------------------------------------------------|
