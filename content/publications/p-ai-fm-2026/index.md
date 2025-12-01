@@ -54,8 +54,8 @@ hugoblox:
 
 # Custom links
 links:
-  - type: pdf
-    url: "../uploads/papers/p-ai-fm-2026-PyVeritas.pdf"    
+#  - type: pdf
+#    url: "../uploads/papers/p-ai-fm-2026-PyVeritas.pdf"    
 #  - type: code  
 #    url: https://github.com/pmorvalho/C-Pack-IPAs
 #  - type: slides
