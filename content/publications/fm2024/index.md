@@ -25,7 +25,7 @@ publishDate: '2024-09-11T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In the *26th international symposium on Formal Method (FM 2024)* **[CORE A Conference]**.
+publication: In the *26th International Symposium on Formal Methods (FM 2024)* **[CORE A Conference]**.
 publication_short: In **FM 2024**
 
 
