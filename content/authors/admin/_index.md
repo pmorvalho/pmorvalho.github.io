@@ -87,7 +87,7 @@ education:
       Ph.D. _viva voce_: 10 April 2025.      
       Spanish Ph.D. Equivalence: Degree officially certified by [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/en), Barcelona, July 2025.
 
-      Activities and societies: :
+      Activities and societies:
       - Student Member, Board of [Técnico Doctoral School](https://doctoralschool.tecnico.ulisboa.pt) 2024
       - Organising Committee of [PhD Open Days 2024](https://phdopendays2024.tecnico.ulisboa.pt)
       - PhD Students Volunteer Team @ INESC-ID 2024
@@ -95,7 +95,7 @@ education:
       - Author and Instructor, [Artificial Intelligence Course](https://treetree2.school/cursos/inteligencia-artificial/2021-01), AfterSchool by Treetree2 2022.
     button:
       text: 'Read PhD Thesis'
-      url: '../uploads/81151-pedro-silva_phd-thesis.pdf'
+      url: '../uploads/theses/81151-pedro-silva_phd-thesis.pdf'
   - area: MSc in Computer Science and Engineering
     institution: Instituto Superior Técnico, Universidade de Lisboa
     date_start: 2018-09-01
@@ -117,7 +117,7 @@ education:
       - Commission for the Quality of Course Units (QUC), Pedagogical Council, IST.
     button:
       text: 'Read MSc Thesis'
-      url: '../uploads/81151-pedro-silva_dissertacao.pdf'      
+      url: '../uploads/theses/ 81151-pedro-silva_dissertacao.pdf'      
   - area: BSc in Computer Science and Engineering
     institution: Instituto Superior Técnico, Universidade de Lisboa
     date_start: 2015-09-01
