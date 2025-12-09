@@ -115,6 +115,9 @@ CFaults exemplifies how **symbolic reasoning and constraint optimisation** can s
 
 - {{< cite page="/publications/fm2024" >}}
 
+- **Pedro Orvalho**, Marta Kwiatkowska, Mikoláš Janota, and Vasco Manquinho (2025). [Model-Based Diagnosis with Multiple Observations: A
+Unified Approach for C Software and Boolean Circuits](https://arxiv.org/abs/2512.02898). In *arXiv* 2025. [PDF](../../uploads/papers/okjm25.pdf).
+
 - {{< cite page="/publications/aaai2025" >}}
 
 - {{< cite page="/publications/phd-thesis" >}}
@@ -122,7 +125,6 @@ CFaults exemplifies how **symbolic reasoning and constraint optimisation** can s
 - {{< cite page="/publications/sigcse-virtual-2024" >}}
 
 - {{< cite page="/publications/p-ai-fm-2026" >}}
-
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12510220.svg)](https://doi.org/10.5281/zenodo.12510220)
 
