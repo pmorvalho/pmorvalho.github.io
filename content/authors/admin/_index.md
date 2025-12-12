@@ -338,11 +338,10 @@ awards:
     url: https://www.ren.pt/en-gb
     date: '2017-07-01'
     awarder: REN - Redes Energéticas Nacionais
-    icon: hero/academic-cap
+    icon: hero/academic-cap    
 ---
 
 I am a **MSCA COFUND Postdoctoral Fellow** at the **[Artificial Intelligence Research Centre (IIIA)](https://iiia.csic.es)**, **[Spanish National Research Council (CSIC)](https://www.csic.es/en/csic)**, collaborating with [Felip Manyà](https://scholar.google.com/citations?user=D6H0ickAAAAJ&hl=en) (IIIA-CSIC) and [Guillem Alenyà](https://www.iri.upc.edu/people/galenya) (IRI-CSIC-UPC) on the [ALLIES](https://aihub.csic.es/en/allies-cofund/) project.  
-I am also a **Visiting Researcher** in the **Department of Computer Science** at the **[University of Oxford](https://www.ox.ac.uk)**, working with [Marta Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/).
 
 Before joining IIIA-CSIC, I was a **Postdoctoral Research Associate** at the **University of Oxford**, contributing to the [FUN2MODEL](http://fun2model.org) ERC project under the supervision of Marta Kwiatkowska.
 

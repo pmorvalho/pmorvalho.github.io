@@ -23,6 +23,7 @@ id: service
 
 | Year | Conference                                                                                                 |
 |------|------------------------------------------------------------------------------------------------------------|
+| 2026 | [35th International Conference on Artificial Intelligence, and the 28th European Conference on Artificial Intelligence (IJCAI-ECAI)](https://2026.ijcai.org) |
 | 2026 | [40th Annual AAAI Conference on Artificial Intelligence (AAAI)](https://aaai.org/conference/aaai/aaai-26/) |
 | 2025 | [28th European Conference on Artificial Intelligence (ECAI)](https:/ecai2025.org)                          |
 | 2025 | [26th International Conference on Artificial Intelligence in Education (AIED)](https://aied2025.itd.cnr.it)|
