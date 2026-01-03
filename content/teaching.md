@@ -41,7 +41,7 @@ id: teaching
       <td style="padding:8px;">Co-advisor</td>
       <td style="padding:8px;">FeedFix: Generating Abstract and Personalized Feedback for Introductory Programming Assignments Through Automated Program Repair</td>
       <td style="padding:8px;">IST, UL, Portugal</td>
-      <td style="padding:8px;"><a href="https://sat.inesc-id.pt/~vmm/research/index.html">Vasco Manquinho</a></td>
+      <td style="padding:8px;"><a href="https://sat.inesc-id.pt/~vmm/">Vasco Manquinho</a></td>
     </tr>
   </tbody>
 </table>

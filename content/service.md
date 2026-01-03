@@ -19,17 +19,19 @@ id: service
 | 2026 | [32nd International Conference on Principles and Practice of Constraint Programming (CP)](http://cp2026.a4cp.org)| Website Chair |
 
 
-## Program Committees
+## Reviewer
 
-| Year | Conference                                                                                                 |
-|------|------------------------------------------------------------------------------------------------------------|
-| 2026 | [35th International Conference on Artificial Intelligence, and the 28th European Conference on Artificial Intelligence (IJCAI-ECAI)](https://2026.ijcai.org) |
-| 2026 | [40th Annual AAAI Conference on Artificial Intelligence (AAAI)](https://aaai.org/conference/aaai/aaai-26/) |
-| 2025 | [28th European Conference on Artificial Intelligence (ECAI)](https:/ecai2025.org)                          |
-| 2025 | [26th International Conference on Artificial Intelligence in Education (AIED)](https://aied2025.itd.cnr.it)|
-| 2025 | [34th International Joint Conference on Artificial Intelligence (IJCAI)](https://2025.ijcai.org)           |
-| 2024 | [1st ACM Virtual Global Computing Education Conference (SIGCSE Virtual)](https://sigcsevirtual2024.acm.org)|
-| 2024 | [33rd International Joint Conference on Artificial Intelligence (IJCAI)](https://ijcai24.org)              |
+| Year | Conference                                                                                                                                                   | Role             |
+|------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|
+| 2026 | [35th International Conference on Artificial Intelligence, and the 29th European Conference on Artificial Intelligence (IJCAI-ECAI)](https://2026.ijcai.org) | PC Member        |
+| 2026 | [40th Annual AAAI Conference on Artificial Intelligence (AAAI)](https://aaai.org/conference/aaai/aaai-26/)                                                   | PC Member        |
+| 2026 | [IEEE Transactions on Learning Technologies (TLT)](https://ieee-edusociety.org/publication/about-publications/tlt)                                           | Reviewer         |
+| 2026 | [2026 European Conference on Object-Oriented Programming (ECOOP)](https://2026.ecoop.org)                                                                    | External Reviewer|
+| 2025 | [28th European Conference on Artificial Intelligence (ECAI)](https:/ecai2025.org)                                                                            | PC Member        |
+| 2025 | [26th International Conference on Artificial Intelligence in Education (AIED)](https://aied2025.itd.cnr.it)                                                  | PC Member        |
+| 2025 | [34th International Joint Conference on Artificial Intelligence (IJCAI)](https://2025.ijcai.org)                                                             | PC Member        |
+| 2024 | [1st ACM Virtual Global Computing Education Conference (SIGCSE Virtual)](https://sigcsevirtual2024.acm.org)                                                  | PC Member        |
+| 2024 | [33rd International Joint Conference on Artificial Intelligence (IJCAI)](https://ijcai24.org)                                                                | PC Member        |
 
 
 ## Sub-reviewer
