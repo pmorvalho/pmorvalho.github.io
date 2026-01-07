@@ -49,7 +49,7 @@ id: teaching
 
 ## Invited Teaching Assistant
 
-From February 2020 to January 2025, I have served as a teaching assistant at Instituto Superior Técnico - Universidade de Lisboa, for the following courses across the scientific areas of **Programming Methodology** and **Artificial Intelligence**:
+From February 2020 to January 2025, I have served as a teaching assistant at Instituto Superior Técnico - Universidade de Lisboa, for the following courses across the scientific areas of **Artificial Intelligence** and **Programming Methodology**:
  - Logic for Programming:
    - [Fall 2024-2025 - 2nd Quarter](https://fenix.tecnico.ulisboa.pt/disciplinas/LP11/2024-2025/1-semestre)
    - [Fall 2021-2022 - 2nd Quarter](https://fenix.tecnico.ulisboa.pt/disciplinas/LP2/2021-2022/1-semestre)

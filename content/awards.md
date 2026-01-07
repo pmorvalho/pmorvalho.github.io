@@ -29,6 +29,7 @@ sections:
       id: memberships
       text: |-
             - MCR Associate Member, [Trinity College](https://www.trinitymcr.com), Oxford, 2025.
+            - Member, Association for the Advancement of Artificial Intelligence (AAAI), 2025 -- 2026.
             - Member, Association for Computing Machinery ([ACM](https://www.acm.org)), 2024.
             - Member, COST Action [EuroProofNet](https://europroofnet.github.io) (2022 -- 2025).	    
 ---
