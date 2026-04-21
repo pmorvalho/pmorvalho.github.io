@@ -136,7 +136,7 @@ work:
     date_start: 2026-04-01
     date_end: ''
     summary: |2-
-      I am a **Marie Skłodowska-Curie Postdoctoral Fellow** at **Artificial Intelligence Research Institute ([IIIA](https://iiia.csic.es))**, **Spanish National Research Council ([CSIC](https://www.csic.es/en/csic))**, collaborating with [Felip Manyà](https://dblp.uni-trier.de/pid/50/4075.html) on my MSCA research project *Sherlock4Py*.
+      I am a **Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellow** at **Artificial Intelligence Research Institute ([IIIA](https://iiia.csic.es))**, **Spanish National Research Council ([CSIC](https://www.csic.es/en/csic))**, collaborating with [Felip Manyà](https://dblp.uni-trier.de/pid/50/4075.html) on my MSCA research project *Sherlock4Py*.
   - position: MSCA COFUND Postdoctoral Fellow
     company_name: 🇪🇸 Instituto de Investigación en Inteligencia Artificial (IIIA), Consejo Superior de Investigaciones Científicas (CSIC), Barcelona, Spain 🇪🇸
     company_url: 'https://iiia.csic.es'
@@ -144,7 +144,7 @@ work:
     date_start: 2025-10-01
     date_end: 2026-03-31
     summary: |2-
-      I was a **Marie Skłodowska-Curie COFUND Postdoctoral Fellow** at **Artificial Intelligence Research Institute ([IIIA](https://iiia.csic.es))**, **Spanish National Research Council ([CSIC](https://www.csic.es/en/csic))**, collaborating with [Felip Manyà](https://dblp.uni-trier.de/pid/50/4075.html) at IIIA-CSIC and [Guillem Alenyà](https://www.iri.upc.edu/people/galenya) at [IRI-CSIC-UPC](https://www.iri.upc.edu) on the [ALLIES](https://aihub.csic.es/en/allies-cofund/) research project.
+      I was a **Marie Skłodowska-Curie Actions (MSCA) COFUND Postdoctoral Fellow** at **Artificial Intelligence Research Institute ([IIIA](https://iiia.csic.es))**, **Spanish National Research Council ([CSIC](https://www.csic.es/en/csic))**, collaborating with [Felip Manyà](https://dblp.uni-trier.de/pid/50/4075.html) at IIIA-CSIC and [Guillem Alenyà](https://www.iri.upc.edu/people/galenya) at [IRI-CSIC-UPC](https://www.iri.upc.edu) on the [ALLIES](https://aihub.csic.es/en/allies-cofund/) research project.
   - position: Visiting Researcher
     company_name: 🇬🇧 Department of Computer Science, University of Oxford, UK 🇬🇧
     company_url: 'https://www.cs.ox.ac.uk/'
@@ -152,7 +152,7 @@ work:
     date_start: 2025-10-01
     date_end: ''
     summary: |2-
-      I am a visiting researcher working with [Marta Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/), supported by an [ELSA Mobility Grant](/blog/2025-10-01-elsa-grant/).          
+      I am a visiting researcher working with [Marta Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/), supported by the [ELSA](/blog/2025-10-01-elsa-grant/) and [ELIAS](/blog/2026-04-17-elias-grant/) Mobility Grants.          
   - position: Postdoctoral Research Associate
     company_name: 🇬🇧 Department of Computer Science, University of Oxford, UK 🇬🇧
     company_url: 'https://www.cs.ox.ac.uk/'
@@ -282,6 +282,13 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: ELIAS Mobility Grant
+    url: https://elias-ai.eu
+    date: '2026-04-17'
+    awarder: ELLIS Network, European Union
+    icon: hero/currency-dollar
+    summary: |
+      Received an ELIAS Research Mobility Grant (up to 2400 €) for a research stay at the 🇬🇧 Department of Computer Science, University of Oxford, UK 🇬🇧, from May to June 2026.
   - title: MSCA Postdoctoral Fellowship
     url: https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships
     date: '2026-02-09'
@@ -302,7 +309,7 @@ awards:
     awarder: ELLIS Network, European Union
     icon: hero/currency-dollar
     summary: |
-      Received an ELSA Research Mobility Grant (up to 3000 €) for a stay at the 🇬🇧 Department of Computer Science, University of Oxford, UK 🇬🇧, from October to December 2025.
+      Received an ELSA Research Mobility Grant (up to 3000 €) for a research stay at the 🇬🇧 Department of Computer Science, University of Oxford, UK 🇬🇧, from October to December 2025.
   - title: MSCA COFUND Postdoctoral Fellowship
     url: https://aihub.csic.es/en/allies-cofund
     date: '2025-08-01'
@@ -328,7 +335,7 @@ awards:
     awarder: ELLIS Network, European Union
     icon: hero/currency-dollar
     summary: |
-      Received an ELISE Research Mobility Grant (up to 5000 €) for a stay at 🇨🇿 CIIRC, Czech Technical University in Prague 🇨🇿, from June to July 2024.      
+      Received an ELISE Research Mobility Grant (up to 5000 €) for a research stay at 🇨🇿 CIIRC, Czech Technical University in Prague 🇨🇿, from June to July 2024.      
   - title: COST Travel Grant
     url: https://www.cost.eu/cost-actions-event/browse-actions
     date: '2022-09-01'
