@@ -27,7 +27,7 @@ role: Marie Skłodowska-Curie Postdoctoral Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Artificial Intelligence Research Institute (IIIA), Spanish National Research Council (CSIC), Barcelona, Spain
+  - name: Artificial Intelligence Research Institute (IIIA), Spanish National Research Council (CSIC), Barcelona, Catalonia, Spain
     url: https://iiia.csic.es
 #- name: Department of Computer Science, University of Oxford
 #  url: "https://www.cs.ox.ac.uk/"
