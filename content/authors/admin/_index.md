@@ -63,12 +63,14 @@ interests:
 - Automated Verification
 - Computer-aided Education
 - Machine Learning
-- Sofware Engineering
-- Automated Program Repair
-- Model-Based Diagnosis
-- Program Synthesis
+- Agentic AI
 - AI4SE
 - AI4Code
+- Sofware Engineering
+- Automated Program Repair
+- Program Synthesis
+- Fault Localisation
+- Model-Based Diagnosis
 
 education:
   - area: PhD in Computer Science
