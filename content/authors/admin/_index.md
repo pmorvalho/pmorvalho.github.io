@@ -58,19 +58,20 @@ profiles:
 interests:
 - Artificial Intelligence
 - Automated Reasoning
-- Formal Methods
 - Neuro-symbolic AI
-- Automated Verification
-- Computer-aided Education
-- Machine Learning
 - Agentic AI
+- Sofware Engineering
 - AI4SE
 - AI4Code
-- Sofware Engineering
+- Automated Verification
+- Machine Learning
+- Computer-aided Education
 - Automated Program Repair
 - Program Synthesis
+- Program Analysis
 - Fault Localisation
 - Model-Based Diagnosis
+- Formal Methods
 
 education:
   - area: PhD in Computer Science
