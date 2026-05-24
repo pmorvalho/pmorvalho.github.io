@@ -1,5 +1,5 @@
 ---
-title: "MENTOR: Feedback Automático para Exercícios Introdutórios de Programação (Portuguese)"
+title: "MENTOR: Feedback Automático para Exercícios Introdutórios de Programação (Portuguese) @ VoA 2025"
 
 event: Vencer o Adamastor - 3rd Edition
 event_url: https://inesc.pt/en/vencer-o-adamastor-2/

@@ -1,5 +1,5 @@
 ---
-title: "GitSEED: A Git-backed Automated Assessment Tool for Software Engineering and Programming Education"
+title: "GitSEED: A Git-backed Automated Assessment Tool for Software Engineering and Programming Education @ SIGCSE-Virtual 2024"
 
 event: The 1st ACM Virtual Global Computing Education Conference, SIGCSE Virtual 2024
 event_url: https://sigcsevirtual2026.acm.org

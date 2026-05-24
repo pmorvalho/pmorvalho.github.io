@@ -1,5 +1,5 @@
 ---
-title: "From Brittle LLM Code Reasoning to MaxSAT-Based Verified Repairs"
+title: "From Brittle LLM Code Reasoning to MaxSAT-Based Verified Repairs @ UCL"
 
 event: Software Systems Engineering (SSE) Seminars @ UCL
 # event_url: https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/26192

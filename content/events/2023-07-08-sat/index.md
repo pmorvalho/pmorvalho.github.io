@@ -1,5 +1,5 @@
 ---
-title: "UpMax: User partitioning for MaxSAT"
+title: "UpMax: User partitioning for MaxSAT @ SAT 2023"
 
 event: In the *26th International Conference on Theory and Applications of Satisfiability Testing, SAT 2023*.
 event_url: https://satisfiability.org/SAT23

@@ -1,5 +1,5 @@
 ---
-title: "MENTOR: Automated Feedback for Introductory Programming Exercises"
+title: "MENTOR: Automated Feedback for Introductory Programming Exercises @ FCT-UNL"
 
 event: DI Seminars
 event_url: https://nova-lincs.di.fct.unl.pt/seminars/mentor-automated-feedback-for-introductory-programming-exercises

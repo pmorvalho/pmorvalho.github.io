@@ -1,5 +1,5 @@
 ---
-title: Counterexample Guided Program Repair Using Zero-Shot Learning and MaxSAT-based Fault Localization
+title: Counterexample Guided Program Repair Using Zero-Shot Learning and MaxSAT-based Fault Localization @ OutSystems
 
 event: OutSystems AI Reading Group
 event_url: https://www.outsystems.com/ai

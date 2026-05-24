@@ -1,5 +1,5 @@
 ---
-title: "From Logic to Learning: Rethinking Programming for the AI Era"
+title: "From Logic to Learning: Rethinking Programming for the AI Era @ DEI, IST-UL"
 
 event: Wednesdays@DEI - Talks, 10-09-2025
 event_url: https://dei.tecnico.ulisboa.pt/en/events/dei-wed/wednesdaysdei-talks-10-09-2025

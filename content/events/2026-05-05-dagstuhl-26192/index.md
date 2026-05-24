@@ -1,5 +1,5 @@
 ---
-title: "Towards Assessing and Repairing LLM-Generated Code via Model Checking and MaxSAT-Based Fault Localisation"
+title: "Towards Assessing and Repairing LLM-Generated Code via Model Checking and MaxSAT-Based Fault Localisation @ Dagstuhl 2026"
 
 event: In the *Dagstuhl Seminar 26192 - Evaluation of AI Models in Software Engineering*
 event_url: https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/26192

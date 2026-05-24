@@ -1,5 +1,5 @@
 ---
-title: "CFaults: Model-Based Diagnosis for Fault Localization in C with Multiple Test Cases"
+title: "CFaults: Model-Based Diagnosis for Fault Localization in C with Multiple Test Cases @ FM 2024"
 
 event: The 26th International Symposium on Formal Methods, FM 2024
 event_url: https://www.fm24.polimi.it

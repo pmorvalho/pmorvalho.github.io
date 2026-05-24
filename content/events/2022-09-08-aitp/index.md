@@ -1,5 +1,5 @@
 ---
-title: "Project Proposal: Learning Variable Mappings to Repair Programs"
+title: "Project Proposal: Learning Variable Mappings to Repair Programs @ AITP 2022"
 
 event: In the 7th Conference on Artificial Intelligence and Theorem Proving, AITP 2022
 event_url: https://aitp-conference.org/2022

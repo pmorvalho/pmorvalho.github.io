@@ -1,5 +1,5 @@
 ---
-title: "C-Pack of IPAs: A C90 Program Benchmark of Introductory Programming Assignments"
+title: "C-Pack of IPAs: A C90 Program Benchmark of Introductory Programming Assignments @ APR@ICSE 2024"
 
 event: In the *5th International Workshop on Automated Program Repair (APR 2024)*
 event_url: https://conf.researchr.org/program/icse-2024/program-icse-2024/?track=APR

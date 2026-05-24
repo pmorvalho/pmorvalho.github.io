@@ -1,7 +1,7 @@
 ---
-title: "Anonymized Abstract Syntax Trees and Invariant-Based Program Clustering"
+title: "Anonymized Abstract Syntax Trees and Invariant-Based Program Clustering @ CIIRC 2022"
 
-event: AI&Reasoning Project Seminars
+event: AI&Reasoning Seminars
 event_url: https://www.ciirc.cvut.cz/research-education/projects/ai-reasoning
 
 location: Automated Reasoning Group, CIIRC

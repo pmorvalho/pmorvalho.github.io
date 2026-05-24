@@ -1,7 +1,7 @@
 ---
-title: "Learning Variable Mappings to Repair and Verify Programs"
+title: "Learning Variable Mappings to Repair and Verify Programs @ CIIRC 2023"
 
-event: AI&Reasoning Project Seminars
+event: AI&Reasoning Seminars
 event_url: https://www.ciirc.cvut.cz/research-education/projects/ai-reasoning
 
 location: Formal Methods Group, CIIRC

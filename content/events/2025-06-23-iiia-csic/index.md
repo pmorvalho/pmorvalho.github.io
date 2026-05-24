@@ -1,5 +1,5 @@
 ---
-title: Counterexample Guided Program Repair Using Large Language Models and MaxSAT-based Fault Localization
+title: "Counterexample Guided Program Repair Using Large Language Models and MaxSAT-based Fault Localization @ IIIA-CSIC"
 
 event: IIIA Seminars
 event_url: https://www.iiia.csic.es/es/noticias-y-eventos/detalles-de-los-seminarios/?seminar_id=140

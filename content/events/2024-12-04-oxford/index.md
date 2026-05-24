@@ -1,5 +1,5 @@
 ---
-title: LLM-Driven Automated Program Repair Using MaxSAT-based Fault Localization
+title: "LLM-Driven Automated Program Repair Using MaxSAT-based Fault Localization @ Oxford"
 
 event: QAVAS Meeting, University of Oxford
 event_url: 

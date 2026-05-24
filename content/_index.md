@@ -96,19 +96,6 @@ sections:
       view: article-grid
       columns: 3
       spacing:
-        padding: [50px, 0, 0, 0]      
-  - block: collection
-    content:
-      title: Recent Publications
-      count: 6      
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
-    design:
-      view: citation
-      spacing:
         padding: [50px, 0, 0, 0]
   - block: collection
     id: talks
@@ -123,6 +110,19 @@ sections:
       # view: article-grid
       view: date-title-summary
       columns: 3
+      spacing:
+        padding: [50px, 0, 0, 0]	
+  - block: collection
+    content:
+      title: Recent Publications
+      count: 6      
+      text: ''
+      filters:
+        folders:
+          - publications
+        exclude_featured: false
+    design:
+      view: citation
       spacing:
         padding: [50px, 0, 0, 0]
 ---

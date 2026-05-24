@@ -1,5 +1,5 @@
 ---
-title: "MENTOR: Fixing Introductory Programming Assignments With Formula-Based Fault Localization and LLM-Driven Program Repair"
+title: "MENTOR: Fixing Introductory Programming Assignments With Formula-Based Fault Localization and LLM-Driven Program Repair @ INESC-ID"
 
 event: INESC-ID Best PhD Student 2025 Award
 event_url: https://www.inesc-id.pt/about-us/inesc-id-awards-2/

@@ -1,5 +1,5 @@
 ---
-title: "Encodings for Enumeration-Based Program Synthesis"
+title: "Encodings for Enumeration-Based Program Synthesis @ CP 2019"
 
 event: In the *25th International Conference Principles and Practice of Constraint Programming*, CP 2019
 event_url: https://cp2019.a4cp.org

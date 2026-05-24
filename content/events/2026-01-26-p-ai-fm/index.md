@@ -1,5 +1,5 @@
 ---
-title: "PyVeritas: On Verifying Python via LLM-Based Transpilation and Bounded Model Checking for C"
+title: "PyVeritas: On Verifying Python via LLM-Based Transpilation and Bounded Model Checking for C @ P-AI-FM@AAAI 2026"
 
 event: In the *1st International Workshop on Post-AI Formal Methods (P-AI-FM) @ AAAI 2026*
 event_url: https://www.p-ai-fm.com

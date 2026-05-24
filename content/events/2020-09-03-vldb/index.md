@@ -1,5 +1,5 @@
 ---
-title: "SQUARES: A SQL Synthesizer Using Query Reverse Engineering"
+title: "SQUARES: A SQL Synthesizer Using Query Reverse Engineering @ VLDB 2020"
 
 event: In *46th International Conference on Very Large Data Bases*, VLDB 2020
 event_url: https://vldb2020.org
