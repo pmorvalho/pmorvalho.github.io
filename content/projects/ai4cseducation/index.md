@@ -112,7 +112,7 @@ References:
 
 - {{< cite page="/publications/phd-thesis" >}}
 
-- Ricardo Brancas, **Pedro Orvalho**, Carolina Carreira, Vasco Manquinho, Ruben Martins (2025). [Can Automated Feedback Turn Students into Happy Prologians?](https://arxiv.org/pdf/2504.16742). *In arXiv 2025*.
+- {{< cite page="/publications/iclp2026-1" >}}
 
 <!--more-->
 

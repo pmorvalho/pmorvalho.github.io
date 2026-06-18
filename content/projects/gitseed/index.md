@@ -97,10 +97,9 @@ GitSEED represents a step towards **scalable, transparent, and customisable AI-d
 
 - {{< cite page="/publications/phd-thesis" >}}
 
+- {{< cite page="/publications/iclp2026-1" >}}
+
 - Ricardo Brancas, Vasco Manquinho and Ruben Martins (2025). [Combining Logic and Large Language Models for Assisted Debugging and Repair of ASP Programs](https://www.ricardobrancas.com/files/formhe25.pdf) In **ICST 2025**. 
-
-- Ricardo Brancas, **Pedro Orvalho**, Carolina Carreira, Vasco Manquinho, Ruben Martins (2025). [Can Automated Feedback Turn Students into Happy Prologians?](https://arxiv.org/pdf/2504.16742). *In arXiv 2025*.
-
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13741158.svg)](https://doi.org/10.5281/zenodo.13741158)
 
