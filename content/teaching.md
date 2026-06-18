@@ -13,106 +13,190 @@ id: teaching
 ## Scientific Supervisions
 
 <style>
-/* ------- Strong overrides to defeat theme / wowchemy rules ------- */
 .custom-table-wrapper {
   width: 100%;
-  display: flex;
-  justify-content: center;
   box-sizing: border-box;
   padding: 0 12px;
 }
 
-/* force browser to treat table normally and let columns size by content */
 .custom-table {
-  table-layout: auto !important;
-  border-collapse: collapse !important;
-  width: 100% !important;
-  max-width: 1200px !important;
-  font-size: 0.98rem !important;
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+  border-collapse: collapse;
+  table-layout: auto;
+  font-size: 0.98rem;
 }
 
-/* CRITICAL: disable any vertical-writing/forced-breaking */
-.custom-table, 
-.custom-table th, 
-.custom-table td,
-.custom-table * {
-  writing-mode: horizontal-tb !important;    /* ensure horizontal text */
-  text-orientation: mixed !important;
-  white-space: normal !important;             /* allow normal wrapping */
-  word-break: normal !important;              /* don't break words by letter */
-  overflow-wrap: normal !important;           /* don't force breaks inside words */
-  hyphens: none !important;
-  padding: 12px 16px !important;
-  vertical-align: top !important;
-  text-align: left !important;
+.custom-table th,
+.custom-table td {
+  padding: 12px 14px;
+  vertical-align: top;
+  text-align: left;
+  white-space: normal;
+  word-break: normal;
+  overflow-wrap: break-word;
 }
 
-/* header and separators */
-.custom-table thead th { border-bottom: 2px solid #e6e9ee !important; font-weight:600 !important; }
-.custom-table tbody tr:not(:last-child) td { border-bottom: 1px solid #f0f2f5 !important; }
-
-/* Strong min-widths so columns don't collapse to 1 character wide */
-.custom-table col.col-student  { min-width: 125px;  width: 9%;  }
-.custom-table col.col-degree   { min-width: 110px;  width: 9%;  }
-.custom-table col.col-period   { min-width: 120px;  width: 9%;  }
-.custom-table col.col-role     { min-width: 115px;  width: 9%;  }
-.custom-table col.col-title    { min-width: 360px;  width: 50%;  } /* big one */
-.custom-table col.col-instit   { min-width: 115px;  width: 5%;   }
-.custom-table col.col-advisor  { min-width: 115px;  width: 8%;   }
-
-/* Responsive fallback: allow horizontal scroll on small screens */
-@media (max-width: 900px) {
-  .custom-table-wrapper { overflow-x: auto; -webkit-overflow-scrolling: touch; }
-  .custom-table { min-width: 900px !important; width: auto !important; }
+.custom-table thead th {
+  border-bottom: 2px solid #e6e9ee;
+  font-weight: 600;
 }
+
+.custom-table tbody tr:not(:last-child) td {
+  border-bottom: 1px solid #f0f2f5;
+}
+
+.custom-table a {
+  color: #0057b8;
+  text-decoration: none;
+}
+
+.custom-table a:hover {
+  text-decoration: underline;
+}
+
+/* Column sizing */
+.custom-table col.col-student  { width: 12%; }
+.custom-table col.col-degree   { width: 8%; }
+.custom-table col.col-period   { width: 10%; }
+.custom-table col.col-role     { width: 8%; }
+.custom-table col.col-title    { width: 46%; }
+.custom-table col.col-instit   { width: 8%; }
+.custom-table col.col-advisor  { width: 8%; }
 </style>
 
 <div class="custom-table-wrapper">
-  <table class="custom-table" role="table" aria-label="Scientific Supervisions">
-    <colgroup>
-      <col class="col-student">
-      <col class="col-degree">
-      <col class="col-period">
-      <col class="col-role">
-      <col class="col-title">
-      <col class="col-instit">
-      <col class="col-advisor">
-    </colgroup>
-    <thead>
-      <tr>
-        <th>Student</th><th>Degree</th><th>Period</th><th>Role</th><th>Thesis Title</th><th>Institution</th><th>Advisor</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Luís Xu</td>
-        <td>MSc in CS</td>
-        <td>Feb. 2026 – now</td>
-        <td>Co-advisor</td>
-        <td>Enhancing CFaults with Spectrum-Based Techniques for Scalable Fault Localization in C Programs</td>
-        <td>IST, UL, Portugal</td>
-        <td>Vasco Manquinho</td>
-      </tr>
-      <tr>
-        <td>Natan Gloeh</td>
-        <td>MSc in CS</td>
-        <td>Sep. 2025 – now</td>
-        <td>Co-advisor</td>
-        <td>An Intelligent Software Agent for Personalized Tutoring</td>
-        <td>IST, UL, Portugal</td>
-        <td>Arlindo L. Oliveira</td>
-      </tr>
-      <tr>
-        <td>Tiago Vaz</td>
-        <td>MSc in CS</td>
-        <td>Feb. 2025 – Oct. 2025</td>
-        <td>Co-advisor</td>
-        <td>FeedFix: Generating Abstract and Personalized Feedback for Introductory Programming Assignments Through Automated Program Repair</td>
-        <td>IST, UL, Portugal</td>
-        <td>Vasco Manquinho</td>
-      </tr>
-    </tbody>
-  </table>
+<table class="custom-table" role="table" aria-label="Scientific Supervisions">
+
+<colgroup>
+  <col class="col-student">
+  <col class="col-degree">
+  <col class="col-period">
+  <col class="col-role">
+  <col class="col-title">
+  <col class="col-instit">
+  <col class="col-advisor">
+</colgroup>
+
+<thead>
+<tr>
+  <th>Student</th>
+  <th>Degree</th>
+  <th>Period</th>
+  <th>Role</th>
+  <th>Thesis Title</th>
+  <th>Institution</th>
+  <th>Advisor</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+  <td>
+    <a href="https://www.linkedin.com/in/jiaqi-yu-sun/" target="_blank" rel="noopener noreferrer">
+      Jiaqi Yu
+    </a>
+  </td>
+  <td>MSc in CS</td>
+  <td>Jun. 2026 – now</td>
+  <td>Co-advisor</td>
+  <td>
+      Natural Language Feedback for Repair of Programming Exercises
+  </td>
+  <td>IST - Univ. Lisboa</td>
+  <td>
+    <a href="https://sat.inesc-id.pt/~vmm/" target="_blank" rel="noopener noreferrer">
+      Vasco Manquinho
+    </a>  
+  </td>
+</tr>
+
+<tr>
+  <td>
+    <a href="https://www.linkedin.com/in/ttlopes/" target="_blank" rel="noopener noreferrer">
+      Tomas Lopes
+    </a>
+  </td>
+  <td>MSc in CS</td>
+  <td>Jun. 2026 – now</td>
+  <td>Co-advisor</td>
+  <td>
+      GitSEED: Back-Office Configuration of Labs and Projects in Programming Courses
+  </td>
+  <td>IST - Univ. Lisboa</td>
+  <td>
+    <a href="https://sat.inesc-id.pt/~vmm/" target="_blank" rel="noopener noreferrer">
+      Vasco Manquinho
+    </a>  
+  </td>
+</tr>
+
+<tr>
+  <td>
+    <a href="https://www.linkedin.com/in/luis-xu-504832274/" target="_blank" rel="noopener noreferrer">
+      Luís Xu
+    </a>
+  </td>
+  <td>MSc in CS</td>
+  <td>Feb. 2026 – now</td>
+  <td>Co-advisor</td>
+  <td>
+      Enhancing CFaults with Spectrum-Based Techniques for Scalable Fault Localization in C Programs
+  </td>
+  <td>IST - Univ. Lisboa</td>
+  <td>
+    <a href="https://sat.inesc-id.pt/~vmm/" target="_blank" rel="noopener noreferrer">
+      Vasco Manquinho
+    </a>  
+  </td>
+</tr>
+
+<tr>
+  <td>
+    <a href="https://www.linkedin.com/in/natan-gloeh-736901251/" target="_blank" rel="noopener noreferrer">
+      Natan Gloeh
+    </a>
+  </td>
+  <td>MSc in CS</td>
+  <td>Sep. 2025 – now</td>
+  <td>Co-advisor</td>
+  <td>
+      An Intelligent Software Agent for Personalized Tutoring
+  </td>
+  <td>IST - Univ. Lisboa</td>
+  <td>
+    <a href="https://arlindo.oliveira.cc" target="_blank" rel="noopener noreferrer">
+      Arlindo L. Oliveira
+    </a>
+  </td>
+</tr>
+
+<tr>
+  <td>
+    <a href="https://github.com/Tiago-Miguel-Vaz" target="_blank" rel="noopener noreferrer">
+      Tiago Vaz
+    </a>
+  </td>
+  <td>MSc in CS</td>
+  <td>Feb. 2025 – Oct. 2025</td>
+  <td>Co-advisor</td>
+  <td>
+    <a href="https://scholar.tecnico.ulisboa.pt/records/5hLitfEslb8Y7pUDbSzcQGaCzAuhtajoOS5p" target="_blank" rel="noopener noreferrer">
+      FeedFix: Generating Abstract and Personalized Feedback for Introductory Programming Assignments Through Automated Program Repair
+    </a>
+  </td>
+  <td>IST - Univ. Lisboa</td>
+  <td>
+    <a href="https://sat.inesc-id.pt/~vmm/" target="_blank" rel="noopener noreferrer">
+      Vasco Manquinho
+    </a>
+  </td>
+</tr>
+
+</tbody>
+</table>
 </div>
 
 ## Invited Teaching Assistant

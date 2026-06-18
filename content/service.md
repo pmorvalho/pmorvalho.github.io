@@ -10,6 +10,8 @@ design:
 
 # Page sections
 id: service
+
+# | 2026 | [40th Annual Conference on Neural Information Processing Systems (NeurIPS)](https://neurips.cc)							      | PC Member         |
 ---
 
 ## Organising Committees
@@ -24,7 +26,6 @@ id: service
 | Year | Conference                                                                                                                                                   | Role              |
 |------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
 | 2026 | [2nd ACM Virtual Global Computing Education Conference (SIGCSE Virtual)](https://sigcsevirtual2026.acm.org)						      | Senior PC Member  |
-| 2026 | [40th Annual Conference on Neural Information Processing Systems (NeurIPS)](https://neurips.cc)							      | PC Member         |
 | 2026 | [43rd International Conference on Machine Learning (ICML)](https://icml.cc) ( ⚪ _Silver Reviewer Award_ ⚪ )			         		      | PC Member         |
 | 2026 | [35th International Conference on Artificial Intelligence, and the 29th European Conference on Artificial Intelligence (IJCAI-ECAI)](https://2026.ijcai.org) | PC Member         |
 | 2026 | [ACM Transactions on Software Engineering and Methodology (TOSEM)](https://dl.acm.org/journal/TOSEM)                			                      | Reviewer          |
