@@ -51,6 +51,8 @@ links:
     url: "../uploads/papers/jss26-MENTOR.pdf"
   - type: code
     url: https://github.com/pmorvalho/MENTOR
+  - name: Zenodo
+    url: https://doi.org/10.5281/zenodo.15678692
   - type: dataset
     url: "https://github.com/pmorvalho/C-Pack-IPAs"
   - type: project
