@@ -36,6 +36,7 @@ summary: In this paper, we propose a novel approach that combines the strengths 
 tags:
   - Large Language Models
   - Automated Program Repair
+  - Neuro-symbolic AI  
   - Automated Verification
   - MaxSAT
   - Model-Based Diagnosis

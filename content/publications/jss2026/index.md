@@ -32,6 +32,7 @@ tags:
 - Program Analysis
 - Formula-based Fault Localization
 - LLM-Driven Program Repair
+- Neuro-symbolic AI
 - Computer-Aided Education
 - Programming Education
 - MENTOR

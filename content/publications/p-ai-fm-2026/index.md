@@ -34,7 +34,8 @@ abstract: Python has become the dominant language for general-purpose programmin
 summary: In this paper, we propose PyVeritas, a novel framework that leverages Large Language Models (LLMs) for high-level transpilation from Python to C, followed by bounded model checking and MaxSAT-based fault localisation in the generated C code.
 
 tags:
-  - Software Verification
+  - Neuro-symbolic AI
+  - Software Verification  
   - Model Checking
   - Python Verification
   - LLM-Based Transpilation

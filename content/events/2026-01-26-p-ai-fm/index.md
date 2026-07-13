@@ -28,7 +28,7 @@ publishDate: '2017-01-01T00:00:00Z'
 authors:
   - admin
 
-tags: [Software Verification, Model Checking, Python Verification, LLM-Based Transpilation, MaxSAT-Based Fault Localisation, Formal Methods, CFaults, PyVeritas]
+tags: [Neuro-symbolic AI, Software Verification, Model Checking, Python Verification, LLM-Based Transpilation, MaxSAT-Based Fault Localisation, Formal Methods, CFaults, PyVeritas]
 
 # Is this a featured talk? (true/false)
 featured: true

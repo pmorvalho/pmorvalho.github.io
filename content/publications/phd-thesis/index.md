@@ -38,9 +38,10 @@ tags:
   - Computer-aided Education
   - Large Language Models
   - Automated Reasoning
+  - Neuro-symbolic AI
   - Automated Verification
   - Formal Methods
-  - Artificial Intelligence
+  - Artificial Intelligence  
   - Model-Based Diagnosis
   - MENTOR
   

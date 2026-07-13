@@ -39,7 +39,7 @@ tags:
  - Large Language Models
  - Maximum Satisfiability
  - Formal Methods
- - Neuro-Symbolic AI
+ - Neuro-symbolic AI
  - Reliable Reasoning
  
 # Display this page in the Featured widget?

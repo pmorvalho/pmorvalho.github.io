@@ -65,7 +65,7 @@ slides: ""
 projects:
 - mentor
 - gitseed
-- ai4education
+- ai4cseducation
 
 # > [!NOTE]
 # > Click on the **Slides** button above to view the built-in slides feature.

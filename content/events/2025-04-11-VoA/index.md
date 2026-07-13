@@ -28,7 +28,7 @@ publishDate: '2017-01-01T00:00:00Z'
 authors:
   - admin
 
-tags: [Computer-aided Education, LLM-Based Program Repair, Automated Program Repair, Fault Localisation, Large Language Models, AI4SE]
+tags: [Computer-aided Education, Neuro-symbolic AI, LLM-Based Program Repair, Automated Program Repair, Fault Localisation, Large Language Models, AI4SE]
 
 # Is this a featured talk? (true/false)
 featured: true

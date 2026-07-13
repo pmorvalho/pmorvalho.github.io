@@ -28,7 +28,7 @@ publishDate: '2017-01-01T00:00:00Z'
 authors:
   - admin
 
-tags: [LLM-Based Program Repair, Automated Program Repair, Fault Localisation, Maximum Satisfiability, Large Language Models, Model-Based Diagnosis, AI4SE]
+tags: [Neuro-symbolic AI, LLM-Based Program Repair, Automated Program Repair, Fault Localisation, Maximum Satisfiability, Large Language Models, Model-Based Diagnosis, AI4SE]
 
 # Is this a featured talk? (true/false)
 featured: true

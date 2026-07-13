@@ -28,7 +28,7 @@ publishDate: '2025-12-17T00:00:00Z'
 authors:
   - admin
 
-tags: [MENTOR, Computer-aided Education, LLM-Based Program Repair, Automated Program Repair, Fault Localisation, Large Language Models, PhD, INESC-ID]
+tags: [MENTOR, Computer-aided Education, Neuro-symbolic AI, LLM-Based Program Repair, Automated Program Repair, Fault Localisation, Large Language Models, PhD, INESC-ID]
 
 # Is this a featured talk? (true/false)
 featured: true
