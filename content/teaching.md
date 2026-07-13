@@ -93,6 +93,62 @@ id: teaching
 
 <tbody>
 
+
+<tr>
+  <td>
+      Rafael Ponte
+  </td>
+  <td>MSc in CS</td>
+  <td>Sep. 2026 – now</td>
+  <td>Co-advisor</td>
+  <td>
+      Scalable Fault Localization of Python Programs
+  </td>
+  <td>IST - Univ. Lisboa</td>
+  <td>
+    <a href="https://sat.inesc-id.pt/~vmm/" target="_blank" rel="noopener noreferrer">
+      Vasco Manquinho
+    </a>  
+  </td>
+</tr>
+
+<tr>
+  <td>
+      Tiago Bernardo
+  </td>
+  <td>MSc in CS</td>
+  <td>Sep. 2026 – now</td>
+  <td>Co-advisor</td>
+  <td>
+      Automatic Repair of C Programs Using LLMs and Formal Methods
+  </td>
+  <td>IST - Univ. Lisboa</td>
+  <td>
+    <a href="https://sat.inesc-id.pt/~vmm/" target="_blank" rel="noopener noreferrer">
+      Vasco Manquinho
+    </a>  
+  </td>
+</tr>
+
+<tr>
+  <td>
+      João Botelho
+  </td>
+  <td>MSc in CS</td>
+  <td>Sep. 2026 – now</td>
+  <td>Co-advisor</td>
+  <td>
+      Fault Localization of Python Programs
+  </td>
+  <td>IST - Univ. Lisboa</td>
+  <td>
+    <a href="https://sat.inesc-id.pt/~vmm/" target="_blank" rel="noopener noreferrer">
+      Vasco Manquinho
+    </a>  
+  </td>
+</tr>
+
+
 <tr>
   <td>
     <a href="https://www.linkedin.com/in/jiaqi-yu-sun/" target="_blank" rel="noopener noreferrer">
