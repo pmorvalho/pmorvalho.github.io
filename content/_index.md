@@ -73,7 +73,7 @@ sections:
       title: '👨‍💻 My Research 🕵️‍♂️'
       subtitle: ''
       text: |-
-        My research explores the synergy between **Automated Reasoning (AR)** and **Machine Learning (ML)**, focusing on enhancing the robustness and reliability of ML Models (e.g., Large Language Models), across diverse reasoning tasks, including but not limited to code understanding.
+        My research explores **Neuro-symbolic AI**, i.e., the synergy between **Automated Reasoning (AR)** and **Machine Learning (ML)**, focusing on enhancing the robustness and reliability of ML models (e.g., Large Language Models), across diverse reasoning tasks, including but not limited to code understanding.
 
         By integrating the mathematical rigor and precision of formal methods with the scalability and adaptability of machine learning, I strive to **develop AI systems that are both reliable and efficient**, tackling critical challenges at the frontier of trustworthy AI.
 

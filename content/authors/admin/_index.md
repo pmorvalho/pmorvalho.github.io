@@ -140,6 +140,14 @@ work:
     date_end: ''
     summary: |2-
       I am a **Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellow** at **Artificial Intelligence Research Institute ([IIIA](https://iiia.csic.es))**, **Spanish National Research Council ([CSIC](https://www.csic.es/en/csic))**, collaborating with [Felip Manyà](https://dblp.uni-trier.de/pid/50/4075.html) on my MSCA research project *Sherlock4Py*.
+  - position: Visiting Researcher
+    company_name: 🇬🇧 Department of Computer Science, University of Oxford, UK 🇬🇧
+    company_url: 'https://www.cs.ox.ac.uk/'
+    company_logo: ''
+    date_start: 2025-10-01
+    date_end: ''
+    summary: |2-
+      I am a visiting researcher working with [Marta Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/), supported by the [ELSA](/blog/2025-10-01-elsa-grant/) and [ELIAS](/blog/2026-04-17-elias-grant/) Mobility Grants.                
   - position: MSCA COFUND Postdoctoral Fellow
     company_name: 🇪🇸 Instituto de Investigación en Inteligencia Artificial (IIIA), Consejo Superior de Investigaciones Científicas (CSIC), Barcelona, Spain 🇪🇸
     company_url: 'https://iiia.csic.es'
@@ -148,14 +156,6 @@ work:
     date_end: 2026-03-31
     summary: |2-
       I was a **Marie Skłodowska-Curie Actions (MSCA) COFUND Postdoctoral Fellow** at **Artificial Intelligence Research Institute ([IIIA](https://iiia.csic.es))**, **Spanish National Research Council ([CSIC](https://www.csic.es/en/csic))**, collaborating with [Felip Manyà](https://dblp.uni-trier.de/pid/50/4075.html) at IIIA-CSIC and [Guillem Alenyà](https://www.iri.upc.edu/people/galenya) at [IRI-CSIC-UPC](https://www.iri.upc.edu) on the [ALLIES](https://aihub.csic.es/en/allies-cofund/) research project.
-  - position: Visiting Researcher
-    company_name: 🇬🇧 Department of Computer Science, University of Oxford, UK 🇬🇧
-    company_url: 'https://www.cs.ox.ac.uk/'
-    company_logo: ''
-    date_start: 2025-10-01
-    date_end: ''
-    summary: |2-
-      I am a visiting researcher working with [Marta Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/), supported by the [ELSA](/blog/2025-10-01-elsa-grant/) and [ELIAS](/blog/2026-04-17-elias-grant/) Mobility Grants.          
   - position: Postdoctoral Research Associate
     company_name: 🇬🇧 Department of Computer Science, University of Oxford, UK 🇬🇧
     company_url: 'https://www.cs.ox.ac.uk/'
