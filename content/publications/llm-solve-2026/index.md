@@ -55,8 +55,8 @@ hugoblox:
 links:
   - type: pdf
     url: "../uploads/papers/llm-solve-2026-workshop-paper.pdf"    
-  - name: project
-    url: projects/ai4code
+  #- name: project
+  #  url: projects/ai4code
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

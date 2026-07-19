@@ -42,8 +42,8 @@ image:
 
 
 links:
-   #- type: slides
-   #  url: "../uploads/slides/slides-2026-01-26-p-ai-fm.pdf"
+   - type: slides
+     url: "../uploads/slides/slides-2026-07-19-llm-solve.pdf"
    - name: paper
      url: publications/llm-solve-2026
    #- name: project

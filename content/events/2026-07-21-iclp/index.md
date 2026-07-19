@@ -41,8 +41,8 @@ image:
   preview_only: false
 
 links:
-   #- type: slides
-   #  url: "../uploads/slides/slides-2024-12-05-sigcse.pdf"
+   - type: slides
+     url: "../uploads/slides/slides-2026-07-21-iclp.pdf"
    - name: project
      url: projects/ai4cseducation
    - name: paper
