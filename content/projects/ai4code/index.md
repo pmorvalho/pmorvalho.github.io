@@ -33,7 +33,7 @@ Together, these efforts aim to build the foundations of **trustworthy AI for sof
 
 ## 🔍 Evaluating LLM Reasoning in Code Understanding  
 
-In this project, we first conducted a [study](https://arxiv.org/abs/2505.10443) to evaluate whether state-of-the-art LLMs (up to 8B parameters) can *reason* about Python programs or are merely *guessing*.  
+In this project, we first conducted a [study](/publications/epia2026-1) to evaluate whether state-of-the-art LLMs (up to 8B parameters) can *reason* about Python programs or are merely *guessing*.  
 
 We applied **five semantics-preserving code mutations**:
 - variable renaming,  
@@ -98,6 +98,8 @@ Together, these efforts aim to **bridge the gap between AI-driven code generatio
 ---
 
 ##  References
+
+- {{< cite page="/publications/epia2026-1" >}}
 
 - **Pedro Orvalho**, and Marta Kwiatkowska (2025). [Are Large Language Models Robust in Understanding Code Against Semantics-Preserving Mutations?](https://arxiv.org/abs/2505.10443). In *arXiv* 2025. 
 

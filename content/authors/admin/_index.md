@@ -139,7 +139,7 @@ work:
     date_start: 2026-04-01
     date_end: ''
     summary: |2-
-      I am a **Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellow** at **Artificial Intelligence Research Institute ([IIIA](https://iiia.csic.es))**, **Spanish National Research Council ([CSIC](https://www.csic.es/en/csic))**, collaborating with [Felip Manyà](https://dblp.uni-trier.de/pid/50/4075.html) on my MSCA research project *Sherlock4Py*.
+      I am a **Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellow** at **Artificial Intelligence Research Institute ([IIIA](https://iiia.csic.es))**, **Spanish National Research Council ([CSIC](https://www.csic.es/en/csic))**, collaborating with [Felip Manyà](https://dblp.uni-trier.de/pid/50/4075.html) on my MSCA research project *[Sherlock4Py](https://doi.org/10.3030/101269051)*.
   - position: Visiting Researcher
     company_name: 🇬🇧 Department of Computer Science, University of Oxford, UK 🇬🇧
     company_url: 'https://www.cs.ox.ac.uk/'
