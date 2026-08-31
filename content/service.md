@@ -6,12 +6,13 @@ type: page
 design:
   spacing: '5rem'
 
+# | 2026 | [41st Annual AAAI Conference on Artificial Intelligence (AAAI)](https://aaai.org/conference/aaai/aaai-27/)                                                   | PC Member         | 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
 # Page sections
 id: service
 
-# | 2026 | [41st Annual AAAI Conference on Artificial Intelligence (AAAI)](https://aaai.org/conference/aaai/aaai-27/)                                                   | PC Member         |
+
 
 ---
 
