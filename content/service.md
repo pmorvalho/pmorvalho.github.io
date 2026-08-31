@@ -11,6 +11,7 @@ design:
 # Page sections
 id: service
 
+# | 2026 | [41st Annual AAAI Conference on Artificial Intelligence (AAAI)](https://aaai.org/conference/aaai/aaai-27/)                                                   | PC Member         |
 
 ---
 
@@ -25,13 +26,13 @@ id: service
 
 | Year | Conference/Journal                                                                                                                                           | Role              |
 |------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
-| 2026 | [41st Annual AAAI Conference on Artificial Intelligence (AAAI)](https://aaai.org/conference/aaai/aaai-27/)                                                   | PC Member         |
 | 2026 | [2nd ACM Virtual Global Computing Education Conference (SIGCSE Virtual)](https://sigcsevirtual2026.acm.org)						      | Senior PC Member  |
 | 2026 | [40th Annual Conference on Neural Information Processing Systems (NeurIPS)](https://neurips.cc)							      | PC Member         |
 | 2026 | [43rd International Conference on Machine Learning (ICML)](https://icml.cc) ( ⚪ _Silver Reviewer Award_ ⚪ )			         		      | PC Member         |
 | 2026 | [35th International Conference on Artificial Intelligence, and the 29th European Conference on Artificial Intelligence (IJCAI-ECAI)](https://2026.ijcai.org) | PC Member         |
 | 2026 | [ACM Transactions on Software Engineering and Methodology (TOSEM)](https://dl.acm.org/journal/TOSEM)                			                      | Reviewer          |
 | 2026 | [ACM Transactions on Computing Education (TOCE)](https://dl.acm.org/journal/toce)                                 			                      | Reviewer          |
+| 2026 | [Artificial Intelligence Review (AIR)](https://link.springer.com/journal/10462)                   				                              | Reviewer          |
 | 2026 | [IEEE Transactions on Learning Technologies (TLT)](https://ieee-edusociety.org/publication/about-publications/tlt)                                           | Reviewer          |
 | 2026 | [Journal of Systems and Software (JSS)](https://www.sciencedirect.com/journal/journal-of-systems-and-software)                                               | Reviewer          |
 | 2026 | [2026 European Conference on Object-Oriented Programming (ECOOP)](https://2026.ecoop.org)                                                                    | External Reviewer |
@@ -47,6 +48,7 @@ id: service
 
 | Year | Conference                                                                                                                  |
 |------|-----------------------------------------------------------------------------------------------------------------------------|
+| 2026 | ACL Rolling Review, May 2026 - Reviewer: Marta Kwiatkowska								     |
 | 2024 | 27th International Conference on Theory and Applications of Satisfiability Testing (SAT) — Reviewer: Inês Lynce             |
 | 2023 | 29th Conference on Automated Deduction (CADE) — Reviewer: Mikoláš Janota                                                    |
 | 2022 | 31st International Joint Conference on Artificial Intelligence (IJCAI) — Reviewer: Mikoláš Janota                           |
