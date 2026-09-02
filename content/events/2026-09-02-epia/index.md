@@ -41,10 +41,10 @@ image:
   preview_only: false
 
 links:
-   #- type: slides
-   #  url: "../uploads/slides/slides-2026-09-02-epia.pdf"
-   # - name: project
-   #  url: projects/
+   - type: slides
+     url: "../uploads/slides/slides-2026-09-02-epia.pdf"
+   - name: project
+     url: projects/ai4reasoning
    - name: paper
      url: publications/epia2026-2
 
@@ -60,8 +60,8 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-#projects:
-#- ai4cseducation
+projects:
+- ai4reasoning
 
 # > [!NOTE]
 # > Click on the **Slides** button above to view the built-in slides feature.

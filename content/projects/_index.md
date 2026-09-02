@@ -14,7 +14,8 @@ sections:
     content:
       title: Research Topics
       text: |-
-            I enjoy integrating **Automated Reasoning (AR)** with **Machine Learning (ML)** to address challenges in software and a variety of other general tasks.
+            My research explores **Neuro-symbolic AI**, focusing on the synergy between **Automated Reasoning (AR)** and **Machine Learning (ML)** to enhance the robustness and reliability of ML models, including Large Language Models and Vision–Language Models. 	    
+            I investigate these challenges across diverse reasoning tasks, with applications including logical reasoning, code understanding, and AI for Software Engineering (AI4SE).	    
             Below is a selection of research topics I have explored over the years.
       filters:
         folders:

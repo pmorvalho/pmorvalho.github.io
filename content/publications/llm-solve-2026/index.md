@@ -55,9 +55,9 @@ hugoblox:
 links:
   - type: pdf
     url: "../uploads/papers/llm-solve-2026-workshop-paper.pdf"    
-  #- name: project
-  #  url: projects/ai4code
-
+  - name: project
+    url: projects/ai4reasoning
+    
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
@@ -71,7 +71,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - ai4code
+  - ai4reasoning
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

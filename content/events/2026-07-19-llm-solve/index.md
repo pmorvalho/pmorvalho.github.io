@@ -46,8 +46,8 @@ links:
      url: "../uploads/slides/slides-2026-07-19-llm-solve.pdf"
    - name: paper
      url: publications/llm-solve-2026
-   #- name: project
-   #  url: projects/ai4code
+   - name: project
+     url: projects/ai4reasoning
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -62,7 +62,7 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- ai4code
+- ai4reasoning
 
 # > [!NOTE]
 # > Click on the **Slides** button above to view the built-in slides feature.

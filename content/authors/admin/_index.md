@@ -122,7 +122,7 @@ education:
       - Commission for the Quality of Course Units (QUC), Pedagogical Council, IST.
     button:
       text: 'Read MSc Thesis'
-      url: '../uploads/theses/ 81151-pedro-silva_dissertacao.pdf'      
+      url: '../uploads/theses/81151-pedro-silva_dissertacao.pdf'      
   - area: BSc in Computer Science and Engineering
     institution: Instituto Superior Técnico, Universidade de Lisboa
     date_start: 2015-09-01
@@ -385,7 +385,7 @@ My doctoral research was supervised by [Vasco Manquinho](http://sat.inesc-id.pt/
 
 During the final year of my **M.Sc. in Computer Science**, I was a **Research Assistant** at **[Carnegie Mellon University (CMU)](https://www.cmu.edu)**, collaborating with [Ruben Martins](https://sat-group.github.io/ruben/). I also gained some industry experience as a **Research Intern** at [OutSystems](https://outsystems.com), a leading Portuguese software company.
 
-I am the proud recipient of several 🏆 [awards and grants](awards) 🏆, including the [Vencer o Adamastor](https://inesc.pt/en/vencer-o-adamastor-2/) 2025 prize, which recognizes innovative contributions by young scientists in Portugal, the **ACM SIGSOFT Distinguished Paper Award** at **ESEC/FSE 2021**, and the **INESC-ID Best PhD Student Award**.
+I am the proud recipient of several 🏆 [awards and grants](awards) 🏆, including the [Vencer o Adamastor](/blog/2025-04-11-VoA) 2025 prize, which recognizes young scientists in Portugal, the **ACM SIGSOFT Distinguished Paper Award** at FSE 2021, and the **INESC-ID Best PhD Student 2025 Award**.
 
 📧 You can reach me at *pmorvalho* (AT) *gmail.com* 📧
 

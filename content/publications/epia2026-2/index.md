@@ -53,8 +53,8 @@ hugoblox:
 links:
   - type: pdf
     url: "../uploads/papers/epia2026-MaxSAT-VLMs-Sudoku.pdf"
-  #- name: project
-  #  url: projects/ai4code
+  - name: project
+    url: projects/ai4reasoning
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -68,8 +68,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-#projects:
- # - ai4code
+projects:
+ - ai4reasoning
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
