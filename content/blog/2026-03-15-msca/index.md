@@ -20,13 +20,13 @@ image:
 
 I have been awarded a **Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowship**, a prestigious European funding programme supporting postdoctoral research. Learn more about the programme [here](https://marie-sklodowska-curie-actions.ec.europa.eu/whats-new/news/msca-postdoctoral-fellowships-2025-receives-record-number-of-17066-proposals).
 
-I will continue my work at the **Artificial Intelligence Research Institute (IIIA-CSIC)** in Barcelona, starting a new project advised by **Dr. [Felip Manyà](https://dblp.uni-trier.de/pid/50/4075.html)**.
+I will continue my work at the **Artificial Intelligence Research Institute (IIIA-CSIC)** in Barcelona, starting a new research project, *[Sherlock4Py](/projects/sherlock4py)*, advised by **Dr. [Felip Manyà](https://dblp.uni-trier.de/pid/50/4075.html)**.
 
 ---
 
 ## 🔍 Project: *Sherlock4Py*
 
-In this project, we will develop new techniques for **debugging Python programs** using **MaxSAT-based reasoning** and explores how these methods can enhance **LLM-based program repair**.
+In this [project](/projects/sherlock4py), we will develop new techniques for **debugging Python programs** using **MaxSAT-based reasoning** and explores how these methods can enhance **LLM-based program repair**.
 
 ---
 

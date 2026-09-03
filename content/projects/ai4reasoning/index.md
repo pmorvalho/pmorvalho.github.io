@@ -1,6 +1,6 @@
 ---
 title: Neuro-Symbolic AI for Reliable Reasoning
-date: 2026-09-01
+date: 2025-10-01
 
 authors:
   - admin

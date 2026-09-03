@@ -139,7 +139,7 @@ work:
     date_start: 2026-04-01
     date_end: ''
     summary: |2-
-      I am a **Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellow** at **Artificial Intelligence Research Institute ([IIIA](https://iiia.csic.es))**, **Spanish National Research Council ([CSIC](https://www.csic.es/en/csic))**, collaborating with [Felip Manyà](https://dblp.uni-trier.de/pid/50/4075.html) on my MSCA research project *[Sherlock4Py](https://doi.org/10.3030/101269051)*.
+      I am a **Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellow** at **Artificial Intelligence Research Institute ([IIIA](https://iiia.csic.es))**, **Spanish National Research Council ([CSIC](https://www.csic.es/en/csic))**, collaborating with [Felip Manyà](https://dblp.uni-trier.de/pid/50/4075.html) on my MSCA research project *[Sherlock4Py](/projects/sherlock4py)*.
   - position: Visiting Researcher
     company_name: 🇬🇧 Department of Computer Science, University of Oxford, UK 🇬🇧
     company_url: 'https://www.cs.ox.ac.uk/'
@@ -298,7 +298,7 @@ awards:
     awarder: European Research Executive Agency (REA), European Union
     icon: hero/currency-dollar
     summary: |
-      I have been awarded a two-year postdoctoral fellowship to work on my Marie Skłodowska-Curie Actions (MSCA) research project *Sherlock4Py* at the Instituto de Investigación en Inteligencia Artificial ([IIIA](https://iiia.csic.es)), part of the Consejo Superior de Investigaciones Científicas ([CSIC](https://www.csic.es/en)), in Barcelona, Catalonia, Spain.
+      I have been awarded a two-year postdoctoral fellowship to work on my Marie Skłodowska-Curie Actions (MSCA) research project [*Sherlock4Py*](/projects/sherlock4py) at the Instituto de Investigación en Inteligencia Artificial ([IIIA](https://iiia.csic.es)), part of the Consejo Superior de Investigaciones Científicas ([CSIC](https://www.csic.es/en)), in Barcelona, Catalonia, Spain.
   - title: INESC-ID Best PhD Student Award
     url: https://www.inesc-id.pt/about-us/inesc-id-awards-2/
     date: '2025-12-19'
@@ -375,8 +375,8 @@ awards:
     icon: hero/academic-cap    
 ---
 
-I am a **Marie Skłodowska-Curie (MSCA) Postdoctoral Fellow** at the **[Artificial Intelligence Research Institute (IIIA)](https://iiia.csic.es)**, **[Spanish National Research Council (CSIC)](https://www.csic.es/en/csic)**, collaborating with [Felip Manyà](https://dblp.uni-trier.de/pid/50/4075.html).
-Previously, I was a **MSCA COFUND Postdoctoral Fellow** at the **[IIIA--CSIC](https://iiia.csic.es)**, collaborating with [Felip Manyà](https://dblp.uni-trier.de/pid/50/4075.html) (IIIA-CSIC) and [Guillem Alenyà](https://www.iri.upc.edu/people/galenya) (IRI-CSIC-UPC) on the [ALLIES](https://aihub.csic.es/en/allies-cofund/) project.  
+I am a **Marie Skłodowska-Curie (MSCA) Postdoctoral Fellow** at the **[Artificial Intelligence Research Institute (IIIA)](https://iiia.csic.es)**, **[Spanish National Research Council (CSIC)](https://www.csic.es/en/csic)**, collaborating with [Felip Manyà](https://dblp.uni-trier.de/pid/50/4075.html) on my MSCA research project *[Sherlock4Py](/projects/sherlock4py)*.
+Previously, I was a **MSCA COFUND Postdoctoral Fellow** at **[IIIA--CSIC](https://iiia.csic.es)**, collaborating with Felip Manyà and [Guillem Alenyà](https://www.iri.upc.edu/people/galenya) (IRI-CSIC-UPC) on the [ALLIES](https://aihub.csic.es/en/allies-cofund/) project.  
 
 Before joining IIIA-CSIC, I was a **Postdoctoral Research Associate** at the **University of Oxford**, contributing to the [FUN2MODEL](http://fun2model.org) ERC project under the supervision of [Marta Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/).
 
