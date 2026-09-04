@@ -42,8 +42,8 @@ image:
   preview_only: false
 
 links:
-   #- type: slides
-   #  url: "../uploads/slides/slides-2026-09-04-epia.pdf"
+   - type: slides
+     url: "../uploads/slides/slides-2026-09-04-epia.pdf"
    - name: project
      url: projects/ai4code
    - name: paper
