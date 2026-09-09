@@ -41,7 +41,7 @@ The project brings together **Maximum Satisfiability (MaxSAT)**,
 to make Python software and AI-assisted programming more reliable.
 
 Sherlock4Py is funded by the **European Union** through the
-**Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowships** under
+**Marie Skłodowska-Curie Actions (MSCA) Postdoctoral 2025 Fellowships** under
 Horizon Europe ([GA No. 101269051](https://cordis.europa.eu/project/id/101269051)).
 
 <div style="text-align:center; margin: 1.5rem auto;">
@@ -290,12 +290,13 @@ See all talks
 
 **<span style="color:#2563eb;">Sherlock4Py</span> —  Max<span style="color:#2563eb;">S</span>AT-Based Misbe<span style="color:#2563eb;">h</span>aviour V<span style="color:#2563eb;">er</span>ification and <span style="color:#2563eb;">Loc</span>alisation Framewor<span style="color:#2563eb;">k</span> for <span style="color:#2563eb;">Py</span>thon**
 
-**Marie Skłodowska-Curie Postdoctoral Fellowship**  
+**[Marie Skłodowska-Curie Postdoctoral 2025 Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/funding/msca-postdoctoral-fellowships-2025)**  
 Horizon Europe · Grant Agreement **101269051**
 
-**Researcher:** [Pedro Orvalho](https://pmorvalho.github.io)  
-**Host:** [Artificial Intelligence Research Institute (IIIA-CSIC)](https://www.iiia.csic.es/)  
-**Supervisor:** Felip Manyà
+**Researcher:** [Dr. Pedro Orvalho](https://pmorvalho.github.io)  
+**Supervisor:** [Dr. Felip Manyà](https://dblp.uni-trier.de/pid/50/4075.html)  
+**Host:** [Artificial Intelligence Research Institute (IIIA)](https://www.iiia.csic.es/), [Spanish National Research Council (CSIC)](https://www.csic.es/es)  
+
 
 [**Project DOI →**](https://doi.org/10.3030/101269051)
 
