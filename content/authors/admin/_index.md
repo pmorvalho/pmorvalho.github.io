@@ -285,6 +285,14 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Best PhD Thesis in AI in Portugal
+    url: https://www.appia.pt
+    date: '2026-09-03'
+    awarder: Portuguese Association for Artificial Intelligence (APPIA)
+    icon: hero/academic-cap
+    summary: |
+      Awarded by the Portuguese Association for Artificial Intelligence (APPIA), this award recognises doctoral theses in Artificial Intelligence completed at Portuguese higher-education institutions.
+
   - title: ELIAS Mobility Grant
     url: https://elias-ai.eu
     date: '2026-04-17'
@@ -385,10 +393,9 @@ My doctoral research was supervised by [Vasco Manquinho](http://sat.inesc-id.pt/
 
 During the final year of my **M.Sc. in Computer Science**, I was a **Research Assistant** at **[Carnegie Mellon University (CMU)](https://www.cmu.edu)**, collaborating with [Ruben Martins](https://sat-group.github.io/ruben/). I also gained some industry experience as a **Research Intern** at [OutSystems](https://outsystems.com), a leading Portuguese software company.
 
-I am the proud recipient of several 🏆 [awards and grants](awards) 🏆, including the [Vencer o Adamastor](/blog/2025-04-11-VoA) 2025 prize, which recognizes young scientists in Portugal, the **ACM SIGSOFT Distinguished Paper Award** at FSE 2021, and the **INESC-ID Best PhD Student 2025 Award**.
+I am the proud recipient of several 🏆 [awards and grants](awards) 🏆, including the [Vencer o Adamastor](/blog/2025-04-11-voa) 2025 Award, which recognises outstanding young scientists in Portugal; the **ACM SIGSOFT Distinguished Paper Award** at FSE 2021; the **2025 Best PhD Thesis in AI in Portugal** award; and the **INESC-ID Best PhD Student 2025 Award**.
 
 📧 You can reach me at *pmorvalho* (AT) *gmail.com* 📧
-
 
 {{< button url="experience" style="secondary" rounded="full" align="center" color="blue" >}}Check out my CV!{{< /button >}}
  
