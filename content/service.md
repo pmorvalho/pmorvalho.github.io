@@ -6,7 +6,7 @@ type: page
 design:
   spacing: '5rem'
 
-# | 2026 | [41st Annual AAAI Conference on Artificial Intelligence (AAAI)](https://aaai.org/conference/aaai/aaai-27/)                                                   | PC Member         | 
+
 # Note: `username` refers to the user's folder name in `content/authors/`
 
 # Page sections
@@ -27,6 +27,10 @@ id: service
 
 | Year | Conference/Journal                                                                                                                                           | Role              |
 |------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
+| 2027 | [36th International Conference on Artificial Intelligence (IJCAI)](https://2027.ijcai.org)                                                                   | PC Member         | 
+| 2026 | [1st International Symposium on AI Risks in Education and Safeguards (AIRES)](https://2027.aires-symposium.org/home)                                         | PC Member         |
+| 2026 | [33rd International Conference on Tools and Algorithms for the Construction and Analysis of Systems, Artifact Evaluation (TACAS AE)](https://etaps.org/2027/conferences/tacas/) | Reviewer          | 
+| 2026 | [41st Annual AAAI Conference on Artificial Intelligence (AAAI)](https://aaai.org/conference/aaai/aaai-27/)                                                   | PC Member         | 
 | 2026 | [2nd ACM Virtual Global Computing Education Conference (SIGCSE Virtual)](https://sigcsevirtual2026.acm.org)						      | Senior PC Member  |
 | 2026 | [40th Annual Conference on Neural Information Processing Systems (NeurIPS)](https://neurips.cc)							      | PC Member         |
 | 2026 | [43rd International Conference on Machine Learning (ICML)](https://icml.cc) ( ⚪ _Silver Reviewer Award_ ⚪ )			         		      | PC Member         |

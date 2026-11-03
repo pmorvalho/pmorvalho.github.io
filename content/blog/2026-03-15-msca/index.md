@@ -12,6 +12,7 @@ tags:
   - Fellowship
   - MaxSAT
   - Python
+  - Neuro-symbolic AI
 image:
   caption: 'Image credit: [**EU**](https://www.europeanacademy.com/marie-sklodowska-curie-actions-research-fellowship-programme/)'
 ---

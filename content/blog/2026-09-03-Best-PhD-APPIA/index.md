@@ -13,6 +13,7 @@ tags:
   - Automated Program Repair
   - Fault Localisation
   - Large Language Models
+  - Neuro-symbolic AI
   - AI4SE
 image:
   caption: 'Image credit: [**APPIA**](https://www.appia.pt/)'
