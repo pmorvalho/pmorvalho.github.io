@@ -216,10 +216,12 @@ id: teaching
     </a>
   </td>
   <td>MSc in CS</td>
-  <td>Sep. 2025 – now</td>
+  <td>Sep. 2025 – Nov. 2026</td>
   <td>Co-advisor</td>
   <td>
-      An Intelligent Software Agent for Personalized Tutoring
+      <a href="https://fenix.tecnico.ulisboa.pt/cursos/meic-a/dissertacao/3098578385896067" target="_blank" rel="noopener noreferrer">
+      Evaluating Spectrum-Based and LLM-Based Fault Localization for Automated Program Repair in Python
+    </a>
   </td>
   <td>IST - Univ. Lisboa</td>
   <td>
@@ -239,7 +241,7 @@ id: teaching
   <td>Feb. 2025 – Oct. 2025</td>
   <td>Co-advisor</td>
   <td>
-    <a href="https://scholar.tecnico.ulisboa.pt/records/5hLitfEslb8Y7pUDbSzcQGaCzAuhtajoOS5p" target="_blank" rel="noopener noreferrer">
+    <a href="https://fenix.tecnico.ulisboa.pt/cursos/meic-t/dissertacao/1128253548924097" target="_blank" rel="noopener noreferrer">
       FeedFix: Generating Abstract and Personalized Feedback for Introductory Programming Assignments Through Automated Program Repair
     </a>
   </td>
